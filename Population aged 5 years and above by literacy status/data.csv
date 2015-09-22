@@ -1,0 +1,751 @@
+District,Sex,Sub Group,Population
+Taplejung,Male,Population above 5 years,54077
+Taplejung,Male,Population who can read and write,42880
+Taplejung,Male,Population who can read only,1534
+Taplejung,Male,Population who can't read or write,9644
+Taplejung,Male,Not stated,19
+Taplejung,Female,Population above 5 years,60490
+Taplejung,Female,Population who can read and write,38803
+Taplejung,Female,Population who can read only,1620
+Taplejung,Female,Population who can't read or write,20037
+Taplejung,Female,Not stated,30
+Panchthar,Male,Population above 5 years,81486
+Panchthar,Male,Population who can read and write,65471
+Panchthar,Male,Population who can read only,2586
+Panchthar,Male,Population who can't read or write,13407
+Panchthar,Male,Not stated,22
+Panchthar,Female,Population above 5 years,93077
+Panchthar,Female,Population who can read and write,61226
+Panchthar,Female,Population who can read only,2929
+Panchthar,Female,Population who can't read or write,28876
+Panchthar,Female,Not stated,46
+Ilam,Male,Population above 5 years,130666
+Ilam,Male,Population who can read and write,109964
+Ilam,Male,Population who can read only,3084
+Ilam,Male,Population who can't read or write,17548
+Ilam,Male,Not stated,70
+Ilam,Female,Population above 5 years,139094
+Ilam,Female,Population who can read and write,100215
+Ilam,Female,Population who can read only,3283
+Ilam,Female,Population who can't read or write,35509
+Ilam,Female,Not stated,87
+Jhapa,Male,Population above 5 years,349759
+Jhapa,Male,Population who can read and write,288007
+Jhapa,Male,Population who can read only,6299
+Jhapa,Male,Population who can't read or write,55364
+Jhapa,Male,Not stated,89
+Jhapa,Female,Population above 5 years,394198
+Jhapa,Female,Population who can read and write,270608
+Jhapa,Female,Population who can read only,6748
+Jhapa,Female,Population who can't read or write,116708
+Jhapa,Female,Not stated,134
+Morang,Male,Population above 5 years,423298
+Morang,Male,Population who can read and write,333245
+Morang,Male,Population who can read only,8339
+Morang,Male,Population who can't read or write,81549
+Morang,Male,Not stated,165
+Morang,Female,Population above 5 years,456931
+Morang,Female,Population who can read and write,288442
+Morang,Female,Population who can read only,9181
+Morang,Female,Population who can't read or write,159055
+Morang,Female,Not stated,253
+Sunsari,Male,Population above 5 years,336594
+Sunsari,Male,Population who can read and write,259040
+Sunsari,Male,Population who can read only,6421
+Sunsari,Male,Population who can't read or write,71024
+Sunsari,Male,Not stated,109
+Sunsari,Female,Population above 5 years,358841
+Sunsari,Female,Population who can read and write,217063
+Sunsari,Female,Population who can read only,7466
+Sunsari,Female,Population who can't read or write,134131
+Sunsari,Female,Not stated,181
+Dhankuta,Male,Population above 5 years,69168
+Dhankuta,Male,Population who can read and write,56991
+Dhankuta,Male,Population who can read only,1280
+Dhankuta,Male,Population who can't read or write,10885
+Dhankuta,Male,Not stated,12
+Dhankuta,Female,Population above 5 years,79767
+Dhankuta,Female,Population who can read and write,53773
+Dhankuta,Female,Population who can read only,1666
+Dhankuta,Female,Population who can't read or write,24309
+Dhankuta,Female,Not stated,19
+Terhathum,Male,Population above 5 years,42507
+Terhathum,Male,Population who can read and write,35504
+Terhathum,Male,Population who can read only,965
+Terhathum,Male,Population who can't read or write,6026
+Terhathum,Male,Not stated,12
+Terhathum,Female,Population above 5 years,49959
+Terhathum,Female,Population who can read and write,33492
+Terhathum,Female,Population who can read only,1040
+Terhathum,Female,Population who can't read or write,15401
+Terhathum,Female,Not stated,26
+Sankhuwasabha,Male,Population above 5 years,67469
+Sankhuwasabha,Male,Population who can read and write,52267
+Sankhuwasabha,Male,Population who can read only,1966
+Sankhuwasabha,Male,Population who can't read or write,13190
+Sankhuwasabha,Male,Not stated,46
+Sankhuwasabha,Female,Population above 5 years,76009
+Sankhuwasabha,Female,Population who can read and write,47275
+Sankhuwasabha,Female,Population who can read only,2072
+Sankhuwasabha,Female,Population who can't read or write,26552
+Sankhuwasabha,Female,Not stated,110
+Bhojpur,Male,Population above 5 years,76971
+Bhojpur,Male,Population who can read and write,60340
+Bhojpur,Male,Population who can read only,1954
+Bhojpur,Male,Population who can't read or write,14660
+Bhojpur,Male,Not stated,17
+Bhojpur,Female,Population above 5 years,87661
+Bhojpur,Female,Population who can read and write,53809
+Bhojpur,Female,Population who can read only,2191
+Bhojpur,Female,Population who can't read or write,31634
+Bhojpur,Female,Not stated,27
+Solukhumbu,Male,Population above 5 years,46224
+Solukhumbu,Male,Population who can read and write,33922
+Solukhumbu,Male,Population who can read only,1523
+Solukhumbu,Male,Population who can't read or write,10762
+Solukhumbu,Male,Not stated,17
+Solukhumbu,Female,Population above 5 years,49670
+Solukhumbu,Female,Population who can read and write,27662
+Solukhumbu,Female,Population who can read only,1535
+Solukhumbu,Female,Population who can't read or write,20450
+Solukhumbu,Female,Not stated,23
+Okhaldhunga,Male,Population above 5 years,61577
+Okhaldhunga,Male,Population who can read and write,45770
+Okhaldhunga,Male,Population who can read only,1764
+Okhaldhunga,Male,Population who can't read or write,14033
+Okhaldhunga,Male,Not stated,10
+Okhaldhunga,Female,Population above 5 years,72409
+Okhaldhunga,Female,Population who can read and write,40556
+Okhaldhunga,Female,Population who can read only,2000
+Okhaldhunga,Female,Population who can't read or write,29835
+Okhaldhunga,Female,Not stated,18
+Khotang,Male,Population above 5 years,86695
+Khotang,Male,Population who can read and write,67334
+Khotang,Male,Population who can read only,3024
+Khotang,Male,Population who can't read or write,16272
+Khotang,Male,Not stated,65
+Khotang,Female,Population above 5 years,99013
+Khotang,Female,Population who can read and write,60492
+Khotang,Female,Population who can read only,3291
+Khotang,Female,Population who can't read or write,35142
+Khotang,Female,Not stated,88
+Udayapur,Male,Population above 5 years,133746
+Udayapur,Male,Population who can read and write,103225
+Udayapur,Male,Population who can read only,3366
+Udayapur,Male,Population who can't read or write,27133
+Udayapur,Male,Not stated,22
+Udayapur,Female,Population above 5 years,152299
+Udayapur,Female,Population who can read and write,93618
+Udayapur,Female,Population who can read only,3917
+Udayapur,Female,Population who can't read or write,54717
+Udayapur,Female,Not stated,47
+Saptari,Male,Population above 5 years,281465
+Saptari,Male,Population who can read and write,188539
+Saptari,Male,Population who can read only,8166
+Saptari,Male,Population who can't read or write,84505
+Saptari,Male,Not stated,255
+Saptari,Female,Population above 5 years,294562
+Saptari,Female,Population who can read and write,125385
+Saptari,Female,Population who can read only,9064
+Saptari,Female,Population who can't read or write,159687
+Saptari,Female,Not stated,426
+Siraha,Male,Population above 5 years,274767
+Siraha,Male,Population who can read and write,169956
+Siraha,Male,Population who can read only,7752
+Siraha,Male,Population who can't read or write,96548
+Siraha,Male,Not stated,511
+Siraha,Female,Population above 5 years,293566
+Siraha,Female,Population who can read and write,115081
+Siraha,Female,Population who can read only,8019
+Siraha,Female,Population who can't read or write,169563
+Siraha,Female,Not stated,903
+Dhanusa,Male,Population above 5 years,340300
+Dhanusa,Male,Population who can read and write,206250
+Dhanusa,Male,Population who can read only,10973
+Dhanusa,Male,Population who can't read or write,121992
+Dhanusa,Male,Not stated,1085
+Dhanusa,Female,Population above 5 years,339145
+Dhanusa,Female,Population who can read and write,136444
+Dhanusa,Female,Population who can read only,11816
+Dhanusa,Female,Population who can't read or write,189351
+Dhanusa,Female,Not stated,1534
+Mahottari,Male,Population above 5 years,275017
+Mahottari,Male,Population who can read and write,155532
+Mahottari,Male,Population who can read only,6858
+Mahottari,Male,Population who can't read or write,111795
+Mahottari,Male,Not stated,832
+Mahottari,Female,Population above 5 years,281254
+Mahottari,Female,Population who can read and write,102810
+Mahottari,Female,Population who can read only,6972
+Mahottari,Female,Population who can't read or write,170409
+Mahottari,Female,Not stated,1063
+Sarlahi,Male,Population above 5 years,345544
+Sarlahi,Male,Population who can read and write,192691
+Sarlahi,Male,Population who can read only,9620
+Sarlahi,Male,Population who can't read or write,143011
+Sarlahi,Male,Not stated,222
+Sarlahi,Female,Population above 5 years,337339
+Sarlahi,Female,Population who can read and write,123477
+Sarlahi,Female,Population who can read only,9593
+Sarlahi,Female,Population who can't read or write,203901
+Sarlahi,Female,Not stated,368
+Sindhuli,Male,Population above 5 years,126320
+Sindhuli,Male,Population who can read and write,88173
+Sindhuli,Male,Population who can read only,4148
+Sindhuli,Male,Population who can't read or write,33918
+Sindhuli,Male,Not stated,81
+Sindhuli,Female,Population above 5 years,138945
+Sindhuli,Female,Population who can read and write,72385
+Sindhuli,Female,Population who can read only,4196
+Sindhuli,Female,Population who can't read or write,62258
+Sindhuli,Female,Not stated,106
+Ramechhap,Male,Population above 5 years,85361
+Ramechhap,Male,Population who can read and write,62003
+Ramechhap,Male,Population who can read only,3282
+Ramechhap,Male,Population who can't read or write,20018
+Ramechhap,Male,Not stated,58
+Ramechhap,Female,Population above 5 years,101262
+Ramechhap,Female,Population who can read and write,54147
+Ramechhap,Female,Population who can read only,3599
+Ramechhap,Female,Population who can't read or write,43386
+Ramechhap,Female,Not stated,130
+Dolakha,Male,Population above 5 years,79064
+Dolakha,Male,Population who can read and write,57989
+Dolakha,Male,Population who can read only,2629
+Dolakha,Male,Population who can't read or write,18400
+Dolakha,Male,Not stated,46
+Dolakha,Female,Population above 5 years,91756
+Dolakha,Female,Population who can read and write,49249
+Dolakha,Female,Population who can read only,3350
+Dolakha,Female,Population who can't read or write,39047
+Dolakha,Female,Not stated,110
+Sindhupalchok,Male,Population above 5 years,126532
+Sindhupalchok,Male,Population who can read and write,86010
+Sindhupalchok,Male,Population who can read only,3674
+Sindhupalchok,Male,Population who can't read or write,36771
+Sindhupalchok,Male,Not stated,77
+Sindhupalchok,Female,Population above 5 years,137742
+Sindhupalchok,Female,Population who can read and write,71459
+Sindhupalchok,Female,Population who can read only,3961
+Sindhupalchok,Female,Population who can't read or write,62189
+Sindhupalchok,Female,Not stated,133
+Kavrepalanchok,Male,Population above 5 years,168411
+Kavrepalanchok,Male,Population who can read and write,134037
+Kavrepalanchok,Male,Population who can read only,4547
+Kavrepalanchok,Male,Population who can't read or write,29750
+Kavrepalanchok,Male,Not stated,77
+Kavrepalanchok,Female,Population above 5 years,185513
+Kavrepalanchok,Female,Population who can read and write,113012
+Kavrepalanchok,Female,Population who can read only,5118
+Kavrepalanchok,Female,Population who can't read or write,67192
+Kavrepalanchok,Female,Not stated,191
+Lalitpur,Male,Population above 5 years,222592
+Lalitpur,Male,Population who can read and write,200577
+Lalitpur,Male,Population who can read only,3224
+Lalitpur,Male,Population who can't read or write,18693
+Lalitpur,Male,Not stated,98
+Lalitpur,Female,Population above 5 years,216037
+Lalitpur,Female,Population who can read and write,161419
+Lalitpur,Female,Population who can read only,4391
+Lalitpur,Female,Population who can't read or write,50042
+Lalitpur,Female,Not stated,185
+Bhaktapur,Male,Population above 5 years,144259
+Bhaktapur,Male,Population who can read and write,130526
+Bhaktapur,Male,Population who can read only,2090
+Bhaktapur,Male,Population who can't read or write,11589
+Bhaktapur,Male,Not stated,54
+Bhaktapur,Female,Population above 5 years,140570
+Bhaktapur,Female,Population who can read and write,102131
+Bhaktapur,Female,Population who can read only,2806
+Bhaktapur,Female,Population who can't read or write,35530
+Bhaktapur,Female,Not stated,103
+Kathmandu,Male,Population above 5 years,853486
+Kathmandu,Male,Population who can read and write,786704
+Kathmandu,Male,Population who can read only,11471
+Kathmandu,Male,Population who can't read or write,55116
+Kathmandu,Male,Not stated,195
+Kathmandu,Female,Population above 5 years,779154
+Kathmandu,Female,Population who can read and write,621495
+Kathmandu,Female,Population who can read only,14135
+Kathmandu,Female,Population who can't read or write,143109
+Kathmandu,Female,Not stated,415
+Nuwakot,Male,Population above 5 years,121619
+Nuwakot,Male,Population who can read and write,82642
+Nuwakot,Male,Population who can read only,4595
+Nuwakot,Male,Population who can't read or write,34214
+Nuwakot,Male,Not stated,168
+Nuwakot,Female,Population above 5 years,134068
+Nuwakot,Female,Population who can read and write,70261
+Nuwakot,Female,Population who can read only,4552
+Nuwakot,Female,Population who can't read or write,59002
+Nuwakot,Female,Not stated,253
+Rasuwa,Male,Population above 5 years,19565
+Rasuwa,Male,Population who can read and write,11906
+Rasuwa,Male,Population who can read only,586
+Rasuwa,Male,Population who can't read or write,7065
+Rasuwa,Male,Not stated,8
+Rasuwa,Female,Population above 5 years,19980
+Rasuwa,Female,Population who can read and write,9291
+Rasuwa,Female,Population who can read only,570
+Rasuwa,Female,Population who can't read or write,10083
+Rasuwa,Female,Not stated,36
+Dhading,Male,Population above 5 years,142433
+Dhading,Male,Population who can read and write,101240
+Dhading,Male,Population who can read only,3765
+Dhading,Male,Population who can't read or write,37348
+Dhading,Male,Not stated,80
+Dhading,Female,Population above 5 years,163552
+Dhading,Female,Population who can read and write,91097
+Dhading,Female,Population who can read only,3980
+Dhading,Female,Population who can't read or write,68333
+Dhading,Female,Not stated,142
+Makwanpur,Male,Population above 5 years,187219
+Makwanpur,Male,Population who can read and write,141190
+Makwanpur,Male,Population who can read only,5032
+Makwanpur,Male,Population who can't read or write,40930
+Makwanpur,Male,Not stated,67
+Makwanpur,Female,Population above 5 years,195049
+Makwanpur,Female,Population who can read and write,118185
+Makwanpur,Female,Population who can read only,5017
+Makwanpur,Female,Population who can't read or write,71758
+Makwanpur,Female,Not stated,89
+Rautahat,Male,Population above 5 years,310238
+Rautahat,Male,Population who can read and write,157845
+Rautahat,Male,Population who can read only,11364
+Rautahat,Male,Population who can't read or write,140361
+Rautahat,Male,Not stated,668
+Rautahat,Female,Population above 5 years,295052
+Rautahat,Female,Population who can read and write,94496
+Rautahat,Female,Population who can read only,11006
+Rautahat,Female,Population who can't read or write,188636
+Rautahat,Female,Not stated,914
+Bara,Male,Population above 5 years,311464
+Bara,Male,Population who can read and write,195448
+Bara,Male,Population who can read only,9270
+Bara,Male,Population who can't read or write,106556
+Bara,Male,Not stated,190
+Bara,Female,Population above 5 years,297756
+Bara,Female,Population who can read and write,121103
+Bara,Female,Population who can read only,9075
+Bara,Female,Population who can't read or write,167274
+Bara,Female,Not stated,304
+Parsa,Male,Population above 5 years,278048
+Parsa,Male,Population who can read and write,186101
+Parsa,Male,Population who can read only,7899
+Parsa,Male,Population who can't read or write,83775
+Parsa,Male,Not stated,273
+Parsa,Female,Population above 5 years,255126
+Parsa,Female,Population who can read and write,111964
+Parsa,Female,Population who can read only,7486
+Parsa,Female,Population who can't read or write,135297
+Parsa,Female,Not stated,379
+Chitawan,Male,Population above 5 years,256694
+Chitawan,Male,Population who can read and write,215282
+Chitawan,Male,Population who can read only,4946
+Chitawan,Male,Population who can't read or write,36351
+Chitawan,Male,Not stated,115
+Chitawan,Female,Population above 5 years,280489
+Chitawan,Female,Population who can read and write,198244
+Chitawan,Female,Population who can read only,5633
+Chitawan,Female,Population who can't read or write,76434
+Chitawan,Female,Not stated,178
+Gorkha,Male,Population above 5 years,109273
+Gorkha,Male,Population who can read and write,82054
+Gorkha,Male,Population who can read only,2622
+Gorkha,Male,Population who can't read or write,24558
+Gorkha,Male,Not stated,39
+Gorkha,Female,Population above 5 years,138584
+Gorkha,Female,Population who can read and write,82370
+Gorkha,Female,Population who can read only,3371
+Gorkha,Female,Population who can't read or write,52765
+Gorkha,Female,Not stated,78
+Lamjung,Male,Population above 5 years,68736
+Lamjung,Male,Population who can read and write,55491
+Lamjung,Male,Population who can read only,1557
+Lamjung,Male,Population who can't read or write,11666
+Lamjung,Male,Not stated,22
+Lamjung,Female,Population above 5 years,84890
+Lamjung,Female,Population who can read and write,53760
+Lamjung,Female,Population who can read only,2234
+Lamjung,Female,Population who can't read or write,28833
+Lamjung,Female,Not stated,63
+Tanahu,Male,Population above 5 years,129445
+Tanahu,Male,Population who can read and write,108317
+Tanahu,Male,Population who can read only,2385
+Tanahu,Male,Population who can't read or write,18673
+Tanahu,Male,Not stated,70
+Tanahu,Female,Population above 5 years,166166
+Tanahu,Female,Population who can read and write,112877
+Tanahu,Female,Population who can read only,3262
+Tanahu,Female,Population who can't read or write,49846
+Tanahu,Female,Not stated,181
+Syangja,Male,Population above 5 years,113340
+Syangja,Male,Population who can read and write,97531
+Syangja,Male,Population who can read only,1827
+Syangja,Male,Population who can't read or write,13937
+Syangja,Male,Not stated,45
+Syangja,Female,Population above 5 years,151685
+Syangja,Female,Population who can read and write,105503
+Syangja,Female,Population who can read only,2496
+Syangja,Female,Population who can't read or write,43565
+Syangja,Female,Not stated,121
+Kaski,Male,Population above 5 years,216624
+Kaski,Male,Population who can read and write,195181
+Kaski,Male,Population who can read only,3018
+Kaski,Male,Population who can't read or write,18365
+Kaski,Male,Not stated,60
+Kaski,Female,Population above 5 years,238368
+Kaski,Female,Population who can read and write,179621
+Kaski,Female,Population who can read only,3997
+Kaski,Female,Population who can't read or write,54618
+Kaski,Female,Not stated,132
+Manang,Male,Population above 5 years,3481
+Manang,Male,Population who can read and write,2890
+Manang,Male,Population who can read only,21
+Manang,Male,Population who can't read or write,570
+Manang,Male,Not stated,0
+Manang,Female,Population above 5 years,2680
+Manang,Female,Population who can read and write,1721
+Manang,Female,Population who can read only,20
+Manang,Female,Population who can't read or write,939
+Manang,Female,Not stated,0
+Mustang,Male,Population above 5 years,6676
+Mustang,Male,Population who can read and write,5034
+Mustang,Male,Population who can read only,139
+Mustang,Male,Population who can't read or write,1502
+Mustang,Male,Not stated,1
+Mustang,Female,Population above 5 years,5912
+Mustang,Female,Population who can read and write,3300
+Mustang,Female,Population who can read only,166
+Mustang,Female,Population who can't read or write,2443
+Mustang,Female,Not stated,3
+Myagdi,Male,Population above 5 years,45372
+Myagdi,Male,Population who can read and write,36781
+Myagdi,Male,Population who can read only,956
+Myagdi,Male,Population who can't read or write,7617
+Myagdi,Male,Not stated,18
+Myagdi,Female,Population above 5 years,56421
+Myagdi,Female,Population who can read and write,36379
+Myagdi,Female,Population who can read only,1414
+Myagdi,Female,Population who can't read or write,18590
+Myagdi,Female,Not stated,38
+Parbat,Male,Population above 5 years,58306
+Parbat,Male,Population who can read and write,48636
+Parbat,Male,Population who can read only,1373
+Parbat,Male,Population who can't read or write,8253
+Parbat,Male,Not stated,44
+Parbat,Female,Population above 5 years,74749
+Parbat,Female,Population who can read and write,49621
+Parbat,Female,Population who can read only,1659
+Parbat,Female,Population who can't read or write,23412
+Parbat,Female,Not stated,57
+Baglung,Male,Population above 5 years,103827
+Baglung,Male,Population who can read and write,83675
+Baglung,Male,Population who can read only,2624
+Baglung,Male,Population who can't read or write,17485
+Baglung,Male,Not stated,43
+Baglung,Female,Population above 5 years,137278
+Baglung,Female,Population who can read and write,89625
+Baglung,Female,Population who can read only,3555
+Baglung,Female,Population who can't read or write,43984
+Baglung,Female,Not stated,114
+Gulmi,Male,Population above 5 years,106310
+Gulmi,Male,Population who can read and write,86799
+Gulmi,Male,Population who can read only,2089
+Gulmi,Male,Population who can't read or write,17393
+Gulmi,Male,Not stated,29
+Gulmi,Female,Population above 5 years,145742
+Gulmi,Female,Population who can read and write,96102
+Gulmi,Female,Population who can read only,2647
+Gulmi,Female,Population who can't read or write,46942
+Gulmi,Female,Not stated,51
+Palpa,Male,Population above 5 years,103503
+Palpa,Male,Population who can read and write,87853
+Palpa,Male,Population who can read only,2428
+Palpa,Male,Population who can't read or write,13185
+Palpa,Male,Not stated,37
+Palpa,Female,Population above 5 years,133688
+Palpa,Female,Population who can read and write,92935
+Palpa,Female,Population who can read only,3462
+Palpa,Female,Population who can't read or write,37202
+Palpa,Female,Not stated,89
+Nawalparasi,Male,Population above 5 years,274920
+Nawalparasi,Male,Population who can read and write,219593
+Nawalparasi,Male,Population who can read only,5526
+Nawalparasi,Male,Population who can't read or write,49675
+Nawalparasi,Male,Not stated,126
+Nawalparasi,Female,Population above 5 years,312978
+Nawalparasi,Female,Population who can read and write,196418
+Nawalparasi,Female,Population who can read only,6508
+Nawalparasi,Female,Population who can't read or write,109847
+Nawalparasi,Female,Not stated,205
+Rupandehi,Male,Population above 5 years,390651
+Rupandehi,Male,Population who can read and write,309480
+Rupandehi,Male,Population who can read only,8722
+Rupandehi,Male,Population who can't read or write,72134
+Rupandehi,Male,Not stated,315
+Rupandehi,Female,Population above 5 years,409779
+Rupandehi,Female,Population who can read and write,249086
+Rupandehi,Female,Population who can read only,9611
+Rupandehi,Female,Population who can't read or write,150502
+Rupandehi,Female,Not stated,580
+Kapilbastu,Male,Population above 5 years,253216
+Kapilbastu,Male,Population who can read and write,164431
+Kapilbastu,Male,Population who can read only,9120
+Kapilbastu,Male,Population who can't read or write,79443
+Kapilbastu,Male,Not stated,222
+Kapilbastu,Female,Population above 5 years,255282
+Kapilbastu,Female,Population who can read and write,114788
+Kapilbastu,Female,Population who can read only,9325
+Kapilbastu,Female,Population who can't read or write,130856
+Kapilbastu,Female,Not stated,313
+Arghakhanchi,Male,Population above 5 years,75231
+Arghakhanchi,Male,Population who can read and write,61509
+Arghakhanchi,Male,Population who can read only,1658
+Arghakhanchi,Male,Population who can't read or write,12029
+Arghakhanchi,Male,Not stated,35
+Arghakhanchi,Female,Population above 5 years,101607
+Arghakhanchi,Female,Population who can read and write,66851
+Arghakhanchi,Female,Population who can read only,2189
+Arghakhanchi,Female,Population who can't read or write,32466
+Arghakhanchi,Female,Not stated,101
+Pyuthan,Male,Population above 5 years,85054
+Pyuthan,Male,Population who can read and write,66499
+Pyuthan,Male,Population who can read only,1866
+Pyuthan,Male,Population who can't read or write,16663
+Pyuthan,Male,Not stated,26
+Pyuthan,Female,Population above 5 years,113418
+Pyuthan,Female,Population who can read and write,66502
+Pyuthan,Female,Population who can read only,2402
+Pyuthan,Female,Population who can't read or write,44465
+Pyuthan,Female,Not stated,49
+Rolpa,Male,Population above 5 years,88582
+Rolpa,Male,Population who can read and write,63379
+Rolpa,Male,Population who can read only,2712
+Rolpa,Male,Population who can't read or write,22449
+Rolpa,Male,Not stated,42
+Rolpa,Female,Population above 5 years,107387
+Rolpa,Female,Population who can read and write,54211
+Rolpa,Female,Population who can read only,3374
+Rolpa,Female,Population who can't read or write,49732
+Rolpa,Female,Not stated,70
+Rukum,Male,Population above 5 years,86955
+Rukum,Male,Population who can read and write,61936
+Rukum,Male,Population who can read only,2126
+Rukum,Male,Population who can't read or write,22856
+Rukum,Male,Not stated,37
+Rukum,Female,Population above 5 years,97296
+Rukum,Female,Population who can read and write,52460
+Rukum,Female,Population who can read only,2636
+Rukum,Female,Population who can't read or write,42138
+Rukum,Female,Not stated,62
+Salyan,Male,Population above 5 years,101916
+Salyan,Male,Population who can read and write,75292
+Salyan,Male,Population who can read only,3427
+Salyan,Male,Population who can't read or write,23120
+Salyan,Male,Not stated,77
+Salyan,Female,Population above 5 years,112899
+Salyan,Female,Population who can read and write,62284
+Salyan,Female,Population who can read only,3981
+Salyan,Female,Population who can't read or write,46400
+Salyan,Female,Not stated,234
+Dang,Male,Population above 5 years,233721
+Dang,Male,Population who can read and write,184354
+Dang,Male,Population who can read only,4579
+Dang,Male,Population who can't read or write,44648
+Dang,Male,Not stated,140
+Dang,Female,Population above 5 years,265388
+Dang,Female,Population who can read and write,166614
+Dang,Female,Population who can read only,5340
+Dang,Female,Population who can't read or write,93221
+Dang,Female,Not stated,213
+Banke,Male,Population above 5 years,219393
+Banke,Male,Population who can read and write,153486
+Banke,Male,Population who can read only,5455
+Banke,Male,Population who can't read or write,60252
+Banke,Male,Not stated,200
+Banke,Female,Population above 5 years,223092
+Banke,Female,Population who can read and write,122584
+Banke,Female,Population who can read only,5964
+Banke,Female,Population who can't read or write,94219
+Banke,Female,Not stated,325
+Bardiya,Male,Population above 5 years,185149
+Bardiya,Male,Population who can read and write,136153
+Bardiya,Male,Population who can read only,3259
+Bardiya,Male,Population who can't read or write,45705
+Bardiya,Male,Not stated,32
+Bardiya,Female,Population above 5 years,202474
+Bardiya,Female,Population who can read and write,117331
+Bardiya,Female,Population who can read only,4009
+Bardiya,Female,Population who can't read or write,81067
+Bardiya,Female,Not stated,67
+Surkhet,Male,Population above 5 years,149173
+Surkhet,Male,Population who can read and write,122382
+Surkhet,Male,Population who can read only,3662
+Surkhet,Male,Population who can't read or write,23084
+Surkhet,Male,Not stated,45
+Surkhet,Female,Population above 5 years,162340
+Surkhet,Female,Population who can read and write,105385
+Surkhet,Female,Population who can read only,4802
+Surkhet,Female,Population who can't read or write,52066
+Surkhet,Female,Not stated,87
+Dailekh,Male,Population above 5 years,108973
+Dailekh,Male,Population who can read and write,79374
+Dailekh,Male,Population who can read only,3472
+Dailekh,Male,Population who can't read or write,26093
+Dailekh,Male,Not stated,34
+Dailekh,Female,Population above 5 years,117493
+Dailekh,Female,Population who can read and write,62105
+Dailekh,Female,Population who can read only,3974
+Dailekh,Female,Population who can't read or write,51345
+Dailekh,Female,Not stated,69
+Jajarkot,Male,Population above 5 years,72824
+Jajarkot,Male,Population who can read and write,47988
+Jajarkot,Male,Population who can read only,2779
+Jajarkot,Male,Population who can't read or write,22026
+Jajarkot,Male,Not stated,31
+Jajarkot,Female,Population above 5 years,73211
+Jajarkot,Female,Population who can read and write,35651
+Jajarkot,Female,Population who can read only,3064
+Jajarkot,Female,Population who can't read or write,34452
+Jajarkot,Female,Not stated,44
+Dolpa,Male,Population above 5 years,15795
+Dolpa,Male,Population who can read and write,10719
+Dolpa,Male,Population who can read only,506
+Dolpa,Male,Population who can't read or write,4559
+Dolpa,Male,Not stated,11
+Dolpa,Female,Population above 5 years,16010
+Dolpa,Female,Population who can read and write,6503
+Dolpa,Female,Population who can read only,614
+Dolpa,Female,Population who can't read or write,8879
+Dolpa,Female,Not stated,14
+Jumla,Male,Population above 5 years,47370
+Jumla,Male,Population who can read and write,32326
+Jumla,Male,Population who can read only,1517
+Jumla,Male,Population who can't read or write,13508
+Jumla,Male,Not stated,19
+Jumla,Female,Population above 5 years,46590
+Jumla,Female,Population who can read and write,19029
+Jumla,Female,Population who can read only,1667
+Jumla,Female,Population who can't read or write,25871
+Jumla,Female,Not stated,23
+Kalikot,Male,Population above 5 years,57732
+Kalikot,Male,Population who can read and write,39197
+Kalikot,Male,Population who can read only,2587
+Kalikot,Male,Population who can't read or write,15911
+Kalikot,Male,Not stated,37
+Kalikot,Female,Population above 5 years,57573
+Kalikot,Female,Population who can read and write,26326
+Kalikot,Female,Population who can read only,2551
+Kalikot,Female,Population who can't read or write,28633
+Kalikot,Female,Not stated,63
+Mugu,Male,Population above 5 years,23671
+Mugu,Male,Population who can read and write,15426
+Mugu,Male,Population who can read only,1074
+Mugu,Male,Population who can't read or write,7154
+Mugu,Male,Not stated,17
+Mugu,Female,Population above 5 years,22998
+Mugu,Female,Population who can read and write,8492
+Mugu,Female,Population who can read only,1096
+Mugu,Female,Population who can't read or write,13381
+Mugu,Female,Not stated,29
+Humla,Male,Population above 5 years,22169
+Humla,Male,Population who can read and write,13759
+Humla,Male,Population who can read only,620
+Humla,Male,Population who can't read or write,7777
+Humla,Male,Not stated,13
+Humla,Female,Population above 5 years,21293
+Humla,Female,Population who can read and write,7026
+Humla,Female,Population who can read only,566
+Humla,Female,Population who can't read or write,13682
+Humla,Female,Not stated,19
+Bajura,Male,Population above 5 years,56160
+Bajura,Male,Population who can read and write,38662
+Bajura,Male,Population who can read only,1288
+Bajura,Male,Population who can't read or write,16193
+Bajura,Male,Not stated,17
+Bajura,Female,Population above 5 years,59817
+Bajura,Female,Population who can read and write,25917
+Bajura,Female,Population who can read only,1559
+Bajura,Female,Population who can't read or write,32321
+Bajura,Female,Not stated,20
+Bajhang,Male,Population above 5 years,78875
+Bajhang,Male,Population who can read and write,57570
+Bajhang,Male,Population who can read only,2495
+Bajhang,Male,Population who can't read or write,18774
+Bajhang,Male,Not stated,36
+Bajhang,Female,Population above 5 years,89123
+Bajhang,Female,Population who can read and write,35753
+Bajhang,Female,Population who can read only,2898
+Bajhang,Female,Population who can't read or write,50408
+Bajhang,Female,Not stated,64
+Achham,Male,Population above 5 years,101551
+Achham,Male,Population who can read and write,71796
+Achham,Male,Population who can read only,3878
+Achham,Male,Population who can't read or write,25759
+Achham,Male,Not stated,118
+Achham,Female,Population above 5 years,119537
+Achham,Female,Population who can read and write,51249
+Achham,Female,Population who can read only,4625
+Achham,Female,Population who can't read or write,63470
+Achham,Female,Not stated,193
+Doti,Male,Population above 5 years,81673
+Doti,Male,Population who can read and write,59956
+Doti,Male,Population who can read only,2653
+Doti,Male,Population who can't read or write,18992
+Doti,Male,Not stated,72
+Doti,Female,Population above 5 years,99471
+Doti,Female,Population who can read and write,42115
+Doti,Female,Population who can read only,3307
+Doti,Female,Population who can't read or write,53891
+Doti,Female,Not stated,158
+Kailali,Male,Population above 5 years,340202
+Kailali,Male,Population who can read and write,259090
+Kailali,Male,Population who can read only,8503
+Kailali,Male,Population who can't read or write,72531
+Kailali,Male,Not stated,78
+Kailali,Female,Population above 5 years,361229
+Kailali,Female,Population who can read and write,206086
+Kailali,Female,Population who can read only,10317
+Kailali,Female,Population who can't read or write,144667
+Kailali,Female,Not stated,159
+Kanchanpur,Male,Population above 5 years,193331
+Kanchanpur,Male,Population who can read and write,157270
+Kanchanpur,Male,Population who can read only,3947
+Kanchanpur,Male,Population who can't read or write,32074
+Kanchanpur,Male,Not stated,40
+Kanchanpur,Female,Population above 5 years,213952
+Kanchanpur,Female,Population who can read and write,130556
+Kanchanpur,Female,Population who can read only,4706
+Kanchanpur,Female,Population who can't read or write,78614
+Kanchanpur,Female,Not stated,76
+Dadeldhura,Male,Population above 5 years,57805
+Dadeldhura,Male,Population who can read and write,46049
+Dadeldhura,Male,Population who can read only,1506
+Dadeldhura,Male,Population who can't read or write,10225
+Dadeldhura,Male,Not stated,25
+Dadeldhura,Female,Population above 5 years,67121
+Dadeldhura,Female,Population who can read and write,35535
+Dadeldhura,Female,Population who can read only,1719
+Dadeldhura,Female,Population who can't read or write,29814
+Dadeldhura,Female,Not stated,53
+Baitadi,Male,Population above 5 years,101046
+Baitadi,Male,Population who can read and write,79836
+Baitadi,Male,Population who can read only,2541
+Baitadi,Male,Population who can't read or write,18616
+Baitadi,Male,Not stated,53
+Baitadi,Female,Population above 5 years,117869
+Baitadi,Female,Population who can read and write,58018
+Baitadi,Female,Population who can read only,3148
+Baitadi,Female,Population who can't read or write,56603
+Baitadi,Female,Not stated,100
+Darchula,Male,Population above 5 years,55418
+Darchula,Male,Population who can read and write,43927
+Darchula,Male,Population who can read only,1195
+Darchula,Male,Population who can't read or write,10278
+Darchula,Male,Not stated,18
+Darchula,Female,Population above 5 years,61732
+Darchula,Female,Population who can read and write,32646
+Darchula,Female,Population who can read only,1556
+Darchula,Female,Population who can't read or write,27506
+Darchula,Female,Not stated,24

@@ -1,0 +1,709 @@
+District,Year,Grade Category,Grade,Gender,Ethnicity,Number of students
+Dailekh,2064,ECD/PPC,ECD/PPC,Girls,Dalit,51
+Dailekh,2064,ECD/PPC,ECD/PPC,Boys,Dalit,37
+Dailekh,2064,ECD/PPC,ECD/PPC,Total,Dalit,88
+Dailekh,2064,ECD/PPC,ECD/PPC,Girls,Janjati,27
+Dailekh,2064,ECD/PPC,ECD/PPC,Boys,Janjati,21
+Dailekh,2064,ECD/PPC,ECD/PPC,Total,Janjati,48
+Dailekh,2064,ECD/PPC,ECD/PPC,Girls,Others,72
+Dailekh,2064,ECD/PPC,ECD/PPC,Boys,Others,122
+Dailekh,2064,ECD/PPC,ECD/PPC,Total,Others,194
+Dailekh,2064,Primary Total enrollment,Grade 1,Girls,Others,9447
+Dailekh,2064,Primary Total enrollment,Grade 1,Boys,Others,9781
+Dailekh,2064,Primary Total enrollment,Grade 1,Total,Others,19228
+Dailekh,2064,Primary Total enrollment,Grade 2,Girls,Others,5936
+Dailekh,2064,Primary Total enrollment,Grade 2,Boys,Others,5609
+Dailekh,2064,Primary Total enrollment,Grade 2,Total,Others,11545
+Dailekh,2064,Primary Total enrollment,Grade 3,Girls,Others,5210
+Dailekh,2064,Primary Total enrollment,Grade 3,Boys,Others,4910
+Dailekh,2064,Primary Total enrollment,Grade 3,Total,Others,10120
+Dailekh,2064,Primary Total enrollment,Grade 4,Girls,Others,3542
+Dailekh,2064,Primary Total enrollment,Grade 4,Boys,Others,3585
+Dailekh,2064,Primary Total enrollment,Grade 4,Total,Others,7127
+Dailekh,2064,Primary Total enrollment,Grade 5,Girls,Others,2849
+Dailekh,2064,Primary Total enrollment,Grade 5,Boys,Others,2910
+Dailekh,2064,Primary Total enrollment,Grade 5,Total,Others,5759
+Dailekh,2064,Primary Dalit enrollment,Grade 1,Girls,Dalit,3921
+Dailekh,2064,Primary Dalit enrollment,Grade 1,Boys,Dalit,3914
+Dailekh,2064,Primary Dalit enrollment,Grade 1,Total,Dalit,7835
+Dailekh,2064,Primary Dalit enrollment,Grade 2,Girls,Dalit,2204
+Dailekh,2064,Primary Dalit enrollment,Grade 2,Boys,Dalit,2082
+Dailekh,2064,Primary Dalit enrollment,Grade 2,Total,Dalit,4286
+Dailekh,2064,Primary Dalit enrollment,Grade 3,Girls,Dalit,1678
+Dailekh,2064,Primary Dalit enrollment,Grade 3,Boys,Dalit,1770
+Dailekh,2064,Primary Dalit enrollment,Grade 3,Total,Dalit,3448
+Dailekh,2064,Primary Dalit enrollment,Grade 4,Girls,Dalit,863
+Dailekh,2064,Primary Dalit enrollment,Grade 4,Boys,Dalit,1170
+Dailekh,2064,Primary Dalit enrollment,Grade 4,Total,Dalit,2033
+Dailekh,2064,Primary Dalit enrollment,Grade 5,Girls,Dalit,558
+Dailekh,2064,Primary Dalit enrollment,Grade 5,Boys,Dalit,755
+Dailekh,2064,Primary Dalit enrollment,Grade 5,Total,Dalit,1313
+Dailekh,2064,Primary Janjati enrollment,Grade 1,Girls,Janjati,1168
+Dailekh,2064,Primary Janjati enrollment,Grade 1,Boys,Janjati,1185
+Dailekh,2064,Primary Janjati enrollment,Grade 1,Total,Janjati,2353
+Dailekh,2064,Primary Janjati enrollment,Grade 2,Girls,Janjati,856
+Dailekh,2064,Primary Janjati enrollment,Grade 2,Boys,Janjati,788
+Dailekh,2064,Primary Janjati enrollment,Grade 2,Total,Janjati,1644
+Dailekh,2064,Primary Janjati enrollment,Grade 3,Girls,Janjati,725
+Dailekh,2064,Primary Janjati enrollment,Grade 3,Boys,Janjati,655
+Dailekh,2064,Primary Janjati enrollment,Grade 3,Total,Janjati,1380
+Dailekh,2064,Primary Janjati enrollment,Grade 4,Girls,Janjati,485
+Dailekh,2064,Primary Janjati enrollment,Grade 4,Boys,Janjati,493
+Dailekh,2064,Primary Janjati enrollment,Grade 4,Total,Janjati,978
+Dailekh,2064,Primary Janjati enrollment,Grade 5,Girls,Janjati,372
+Dailekh,2064,Primary Janjati enrollment,Grade 5,Boys,Janjati,411
+Dailekh,2064,Primary Janjati enrollment,Grade 5,Total,Janjati,783
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,2402
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,2914
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,5316
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,1998
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,2477
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,4475
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,1923
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,2610
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,4533
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,1626
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,2151
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,3777
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,1242
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,1645
+Dailekh,2064,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,2887
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,402
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,568
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,970
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,256
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,392
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,648
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,177
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,334
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,511
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,108
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,198
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,306
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,75
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,141
+Dailekh,2064,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,216
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,355
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,368
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,723
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,274
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,269
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,543
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,238
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,329
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,567
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,164
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,219
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,383
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,164
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,210
+Dailekh,2064,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,374
+Dailekh,2064,Higher Secondary Total,Grade 11,Girls,Others,872
+Dailekh,2064,Higher Secondary Total,Grade 11,Boys,Others,1229
+Dailekh,2064,Higher Secondary Total,Grade 11,Total,Others,2101
+Dailekh,2064,Higher Secondary Total,Grade 12,Girls,Others,352
+Dailekh,2064,Higher Secondary Total,Grade 12,Boys,Others,486
+Dailekh,2064,Higher Secondary Total,Grade 12,Total,Others,838
+Dailekh,2064,Higher Secondary  Dalit,Grade 11,Girls,Dalit,50
+Dailekh,2064,Higher Secondary  Dalit,Grade 11,Boys,Dalit,65
+Dailekh,2064,Higher Secondary  Dalit,Grade 11,Total,Dalit,115
+Dailekh,2064,Higher Secondary  Dalit,Grade 12,Girls,Dalit,14
+Dailekh,2064,Higher Secondary  Dalit,Grade 12,Boys,Dalit,24
+Dailekh,2064,Higher Secondary  Dalit,Grade 12,Total,Dalit,38
+Dailekh,2064,Higher Secondary Janjati,Grade 11,Girls,Janjati,35
+Dailekh,2064,Higher Secondary Janjati,Grade 11,Boys,Janjati,44
+Dailekh,2064,Higher Secondary Janjati,Grade 11,Total,Janjati,79
+Dailekh,2064,Higher Secondary Janjati,Grade 12,Girls,Janjati,17
+Dailekh,2064,Higher Secondary Janjati,Grade 12,Boys,Janjati,20
+Dailekh,2064,Higher Secondary Janjati,Grade 12,Total,Janjati,37
+Dailekh,2065,ECD/PPC,ECD/PPC,Girls,Dalit,8
+Dailekh,2065,ECD/PPC,ECD/PPC,Boys,Dalit,3
+Dailekh,2065,ECD/PPC,ECD/PPC,Total,Dalit,11
+Dailekh,2065,ECD/PPC,ECD/PPC,Girls,Janjati,0
+Dailekh,2065,ECD/PPC,ECD/PPC,Boys,Janjati,0
+Dailekh,2065,ECD/PPC,ECD/PPC,Total,Janjati,0
+Dailekh,2065,ECD/PPC,ECD/PPC,Girls,Others,2
+Dailekh,2065,ECD/PPC,ECD/PPC,Boys,Others,0
+Dailekh,2065,ECD/PPC,ECD/PPC,Total,Others,2
+Dailekh,2065,Primary Total enrollment,Grade 1,Girls,Others,9268
+Dailekh,2065,Primary Total enrollment,Grade 1,Boys,Others,9828
+Dailekh,2065,Primary Total enrollment,Grade 1,Total,Others,19096
+Dailekh,2065,Primary Total enrollment,Grade 2,Girls,Others,5805
+Dailekh,2065,Primary Total enrollment,Grade 2,Boys,Others,5245
+Dailekh,2065,Primary Total enrollment,Grade 2,Total,Others,11050
+Dailekh,2065,Primary Total enrollment,Grade 3,Girls,Others,5017
+Dailekh,2065,Primary Total enrollment,Grade 3,Boys,Others,4815
+Dailekh,2065,Primary Total enrollment,Grade 3,Total,Others,9832
+Dailekh,2065,Primary Total enrollment,Grade 4,Girls,Others,4727
+Dailekh,2065,Primary Total enrollment,Grade 4,Boys,Others,4416
+Dailekh,2065,Primary Total enrollment,Grade 4,Total,Others,9143
+Dailekh,2065,Primary Total enrollment,Grade 5,Girls,Others,3385
+Dailekh,2065,Primary Total enrollment,Grade 5,Boys,Others,3398
+Dailekh,2065,Primary Total enrollment,Grade 5,Total,Others,6783
+Dailekh,2065,Primary Dalit enrollment,Grade 1,Girls,Dalit,4096
+Dailekh,2065,Primary Dalit enrollment,Grade 1,Boys,Dalit,4049
+Dailekh,2065,Primary Dalit enrollment,Grade 1,Total,Dalit,8145
+Dailekh,2065,Primary Dalit enrollment,Grade 2,Girls,Dalit,2367
+Dailekh,2065,Primary Dalit enrollment,Grade 2,Boys,Dalit,2082
+Dailekh,2065,Primary Dalit enrollment,Grade 2,Total,Dalit,4449
+Dailekh,2065,Primary Dalit enrollment,Grade 3,Girls,Dalit,1754
+Dailekh,2065,Primary Dalit enrollment,Grade 3,Boys,Dalit,1680
+Dailekh,2065,Primary Dalit enrollment,Grade 3,Total,Dalit,3434
+Dailekh,2065,Primary Dalit enrollment,Grade 4,Girls,Dalit,1352
+Dailekh,2065,Primary Dalit enrollment,Grade 4,Boys,Dalit,1507
+Dailekh,2065,Primary Dalit enrollment,Grade 4,Total,Dalit,2859
+Dailekh,2065,Primary Dalit enrollment,Grade 5,Girls,Dalit,731
+Dailekh,2065,Primary Dalit enrollment,Grade 5,Boys,Dalit,920
+Dailekh,2065,Primary Dalit enrollment,Grade 5,Total,Dalit,1651
+Dailekh,2065,Primary Janjati enrollment,Grade 1,Girls,Janjati,1223
+Dailekh,2065,Primary Janjati enrollment,Grade 1,Boys,Janjati,1369
+Dailekh,2065,Primary Janjati enrollment,Grade 1,Total,Janjati,2592
+Dailekh,2065,Primary Janjati enrollment,Grade 2,Girls,Janjati,815
+Dailekh,2065,Primary Janjati enrollment,Grade 2,Boys,Janjati,719
+Dailekh,2065,Primary Janjati enrollment,Grade 2,Total,Janjati,1534
+Dailekh,2065,Primary Janjati enrollment,Grade 3,Girls,Janjati,730
+Dailekh,2065,Primary Janjati enrollment,Grade 3,Boys,Janjati,694
+Dailekh,2065,Primary Janjati enrollment,Grade 3,Total,Janjati,1424
+Dailekh,2065,Primary Janjati enrollment,Grade 4,Girls,Janjati,729
+Dailekh,2065,Primary Janjati enrollment,Grade 4,Boys,Janjati,686
+Dailekh,2065,Primary Janjati enrollment,Grade 4,Total,Janjati,1415
+Dailekh,2065,Primary Janjati enrollment,Grade 5,Girls,Janjati,463
+Dailekh,2065,Primary Janjati enrollment,Grade 5,Boys,Janjati,468
+Dailekh,2065,Primary Janjati enrollment,Grade 5,Total,Janjati,931
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,2734
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,2991
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,5725
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,2254
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,2615
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,4869
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,2278
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,2737
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,5015
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,1897
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,2541
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,4438
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,1738
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,2225
+Dailekh,2065,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,3963
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,471
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,602
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,1073
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,349
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,475
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,824
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,272
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,446
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,718
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,211
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,299
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,510
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,168
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,250
+Dailekh,2065,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,418
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,349
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,404
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,753
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,303
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,335
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,638
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,308
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,345
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,653
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,223
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,330
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,553
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,176
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,219
+Dailekh,2065,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,395
+Dailekh,2065,Higher Secondary Total,Grade 11,Girls,Others,0
+Dailekh,2065,Higher Secondary Total,Grade 11,Boys,Others,0
+Dailekh,2065,Higher Secondary Total,Grade 11,Total,Others,0
+Dailekh,2065,Higher Secondary Total,Grade 12,Girls,Others,0
+Dailekh,2065,Higher Secondary Total,Grade 12,Boys,Others,0
+Dailekh,2065,Higher Secondary Total,Grade 12,Total,Others,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 11,Girls,Dalit,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 11,Boys,Dalit,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 11,Total,Dalit,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 12,Girls,Dalit,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 12,Boys,Dalit,0
+Dailekh,2065,Higher Secondary  Dalit,Grade 12,Total,Dalit,0
+Dailekh,2065,Higher Secondary Janjati,Grade 11,Girls,Janjati,0
+Dailekh,2065,Higher Secondary Janjati,Grade 11,Boys,Janjati,0
+Dailekh,2065,Higher Secondary Janjati,Grade 11,Total,Janjati,0
+Dailekh,2065,Higher Secondary Janjati,Grade 12,Girls,Janjati,0
+Dailekh,2065,Higher Secondary Janjati,Grade 12,Boys,Janjati,0
+Dailekh,2065,Higher Secondary Janjati,Grade 12,Total,Janjati,0
+Dailekh,2066,ECD/PPC,ECD/PPC,Girls,Dalit,549
+Dailekh,2066,ECD/PPC,ECD/PPC,Boys,Dalit,546
+Dailekh,2066,ECD/PPC,ECD/PPC,Total,Dalit,1095
+Dailekh,2066,ECD/PPC,ECD/PPC,Girls,Janjati,277
+Dailekh,2066,ECD/PPC,ECD/PPC,Boys,Janjati,255
+Dailekh,2066,ECD/PPC,ECD/PPC,Total,Janjati,532
+Dailekh,2066,ECD/PPC,ECD/PPC,Girls,Others,1555
+Dailekh,2066,ECD/PPC,ECD/PPC,Boys,Others,1531
+Dailekh,2066,ECD/PPC,ECD/PPC,Total,Others,3086
+Dailekh,2066,Primary Total enrollment,Grade 1,Girls,Others,9966
+Dailekh,2066,Primary Total enrollment,Grade 1,Boys,Others,10280
+Dailekh,2066,Primary Total enrollment,Grade 1,Total,Others,20246
+Dailekh,2066,Primary Total enrollment,Grade 2,Girls,Others,6041
+Dailekh,2066,Primary Total enrollment,Grade 2,Boys,Others,5725
+Dailekh,2066,Primary Total enrollment,Grade 2,Total,Others,11766
+Dailekh,2066,Primary Total enrollment,Grade 3,Girls,Others,5269
+Dailekh,2066,Primary Total enrollment,Grade 3,Boys,Others,4933
+Dailekh,2066,Primary Total enrollment,Grade 3,Total,Others,10202
+Dailekh,2066,Primary Total enrollment,Grade 4,Girls,Others,5155
+Dailekh,2066,Primary Total enrollment,Grade 4,Boys,Others,4645
+Dailekh,2066,Primary Total enrollment,Grade 4,Total,Others,9800
+Dailekh,2066,Primary Total enrollment,Grade 5,Girls,Others,4612
+Dailekh,2066,Primary Total enrollment,Grade 5,Boys,Others,4191
+Dailekh,2066,Primary Total enrollment,Grade 5,Total,Others,8803
+Dailekh,2066,Primary Dalit enrollment,Grade 1,Girls,Dalit,4851
+Dailekh,2066,Primary Dalit enrollment,Grade 1,Boys,Dalit,4710
+Dailekh,2066,Primary Dalit enrollment,Grade 1,Total,Dalit,9561
+Dailekh,2066,Primary Dalit enrollment,Grade 2,Girls,Dalit,2667
+Dailekh,2066,Primary Dalit enrollment,Grade 2,Boys,Dalit,2405
+Dailekh,2066,Primary Dalit enrollment,Grade 2,Total,Dalit,5072
+Dailekh,2066,Primary Dalit enrollment,Grade 3,Girls,Dalit,2200
+Dailekh,2066,Primary Dalit enrollment,Grade 3,Boys,Dalit,1940
+Dailekh,2066,Primary Dalit enrollment,Grade 3,Total,Dalit,4140
+Dailekh,2066,Primary Dalit enrollment,Grade 4,Girls,Dalit,1626
+Dailekh,2066,Primary Dalit enrollment,Grade 4,Boys,Dalit,1632
+Dailekh,2066,Primary Dalit enrollment,Grade 4,Total,Dalit,3258
+Dailekh,2066,Primary Dalit enrollment,Grade 5,Girls,Dalit,1272
+Dailekh,2066,Primary Dalit enrollment,Grade 5,Boys,Dalit,1491
+Dailekh,2066,Primary Dalit enrollment,Grade 5,Total,Dalit,2763
+Dailekh,2066,Primary Janjati enrollment,Grade 1,Girls,Janjati,1242
+Dailekh,2066,Primary Janjati enrollment,Grade 1,Boys,Janjati,1353
+Dailekh,2066,Primary Janjati enrollment,Grade 1,Total,Janjati,2595
+Dailekh,2066,Primary Janjati enrollment,Grade 2,Girls,Janjati,840
+Dailekh,2066,Primary Janjati enrollment,Grade 2,Boys,Janjati,831
+Dailekh,2066,Primary Janjati enrollment,Grade 2,Total,Janjati,1671
+Dailekh,2066,Primary Janjati enrollment,Grade 3,Girls,Janjati,750
+Dailekh,2066,Primary Janjati enrollment,Grade 3,Boys,Janjati,699
+Dailekh,2066,Primary Janjati enrollment,Grade 3,Total,Janjati,1449
+Dailekh,2066,Primary Janjati enrollment,Grade 4,Girls,Janjati,772
+Dailekh,2066,Primary Janjati enrollment,Grade 4,Boys,Janjati,706
+Dailekh,2066,Primary Janjati enrollment,Grade 4,Total,Janjati,1478
+Dailekh,2066,Primary Janjati enrollment,Grade 5,Girls,Janjati,639
+Dailekh,2066,Primary Janjati enrollment,Grade 5,Boys,Janjati,588
+Dailekh,2066,Primary Janjati enrollment,Grade 5,Total,Janjati,1227
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,3474
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,3491
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,6965
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,2659
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,2730
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,5389
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,2975
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,3045
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,6020
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,2199
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,2614
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,4813
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,2142
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,2676
+Dailekh,2066,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,4818
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,870
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,1054
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,1924
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,499
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,684
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,1183
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,512
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,665
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,1177
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,294
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,415
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,709
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,218
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,339
+Dailekh,2066,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,557
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,474
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,461
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,935
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,371
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,372
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,743
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,371
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,423
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,794
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,316
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,306
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,622
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,246
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,331
+Dailekh,2066,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,577
+Dailekh,2066,Higher Secondary Total,Grade 11,Girls,Others,1242
+Dailekh,2066,Higher Secondary Total,Grade 11,Boys,Others,1685
+Dailekh,2066,Higher Secondary Total,Grade 11,Total,Others,2927
+Dailekh,2066,Higher Secondary Total,Grade 12,Girls,Others,1004
+Dailekh,2066,Higher Secondary Total,Grade 12,Boys,Others,1285
+Dailekh,2066,Higher Secondary Total,Grade 12,Total,Others,2289
+Dailekh,2066,Higher Secondary  Dalit,Grade 11,Girls,Dalit,104
+Dailekh,2066,Higher Secondary  Dalit,Grade 11,Boys,Dalit,188
+Dailekh,2066,Higher Secondary  Dalit,Grade 11,Total,Dalit,292
+Dailekh,2066,Higher Secondary  Dalit,Grade 12,Girls,Dalit,68
+Dailekh,2066,Higher Secondary  Dalit,Grade 12,Boys,Dalit,126
+Dailekh,2066,Higher Secondary  Dalit,Grade 12,Total,Dalit,194
+Dailekh,2066,Higher Secondary Janjati,Grade 11,Girls,Janjati,83
+Dailekh,2066,Higher Secondary Janjati,Grade 11,Boys,Janjati,125
+Dailekh,2066,Higher Secondary Janjati,Grade 11,Total,Janjati,208
+Dailekh,2066,Higher Secondary Janjati,Grade 12,Girls,Janjati,58
+Dailekh,2066,Higher Secondary Janjati,Grade 12,Boys,Janjati,105
+Dailekh,2066,Higher Secondary Janjati,Grade 12,Total,Janjati,163
+Dailekh,2067,ECD/PPC,ECD/PPC,Girls,Dalit,876
+Dailekh,2067,ECD/PPC,ECD/PPC,Boys,Dalit,823
+Dailekh,2067,ECD/PPC,ECD/PPC,Total,Dalit,1699
+Dailekh,2067,ECD/PPC,ECD/PPC,Girls,Janjati,440
+Dailekh,2067,ECD/PPC,ECD/PPC,Boys,Janjati,330
+Dailekh,2067,ECD/PPC,ECD/PPC,Total,Janjati,770
+Dailekh,2067,ECD/PPC,ECD/PPC,Girls,Others,2953
+Dailekh,2067,ECD/PPC,ECD/PPC,Boys,Others,3108
+Dailekh,2067,ECD/PPC,ECD/PPC,Total,Others,6061
+Dailekh,2067,Primary Total enrollment,Grade 1,Girls,Others,8300
+Dailekh,2067,Primary Total enrollment,Grade 1,Boys,Others,8407
+Dailekh,2067,Primary Total enrollment,Grade 1,Total,Others,16707
+Dailekh,2067,Primary Total enrollment,Grade 2,Girls,Others,5606
+Dailekh,2067,Primary Total enrollment,Grade 2,Boys,Others,5336
+Dailekh,2067,Primary Total enrollment,Grade 2,Total,Others,10942
+Dailekh,2067,Primary Total enrollment,Grade 3,Girls,Others,5012
+Dailekh,2067,Primary Total enrollment,Grade 3,Boys,Others,4501
+Dailekh,2067,Primary Total enrollment,Grade 3,Total,Others,9513
+Dailekh,2067,Primary Total enrollment,Grade 4,Girls,Others,4603
+Dailekh,2067,Primary Total enrollment,Grade 4,Boys,Others,4321
+Dailekh,2067,Primary Total enrollment,Grade 4,Total,Others,8924
+Dailekh,2067,Primary Total enrollment,Grade 5,Girls,Others,5167
+Dailekh,2067,Primary Total enrollment,Grade 5,Boys,Others,4171
+Dailekh,2067,Primary Total enrollment,Grade 5,Total,Others,9338
+Dailekh,2067,Primary Dalit enrollment,Grade 1,Girls,Dalit,4081
+Dailekh,2067,Primary Dalit enrollment,Grade 1,Boys,Dalit,4107
+Dailekh,2067,Primary Dalit enrollment,Grade 1,Total,Dalit,8188
+Dailekh,2067,Primary Dalit enrollment,Grade 2,Girls,Dalit,2579
+Dailekh,2067,Primary Dalit enrollment,Grade 2,Boys,Dalit,2377
+Dailekh,2067,Primary Dalit enrollment,Grade 2,Total,Dalit,4956
+Dailekh,2067,Primary Dalit enrollment,Grade 3,Girls,Dalit,2037
+Dailekh,2067,Primary Dalit enrollment,Grade 3,Boys,Dalit,1970
+Dailekh,2067,Primary Dalit enrollment,Grade 3,Total,Dalit,4007
+Dailekh,2067,Primary Dalit enrollment,Grade 4,Girls,Dalit,1943
+Dailekh,2067,Primary Dalit enrollment,Grade 4,Boys,Dalit,1650
+Dailekh,2067,Primary Dalit enrollment,Grade 4,Total,Dalit,3593
+Dailekh,2067,Primary Dalit enrollment,Grade 5,Girls,Dalit,1455
+Dailekh,2067,Primary Dalit enrollment,Grade 5,Boys,Dalit,1484
+Dailekh,2067,Primary Dalit enrollment,Grade 5,Total,Dalit,2939
+Dailekh,2067,Primary Janjati enrollment,Grade 1,Girls,Janjati,1094
+Dailekh,2067,Primary Janjati enrollment,Grade 1,Boys,Janjati,1115
+Dailekh,2067,Primary Janjati enrollment,Grade 1,Total,Janjati,2209
+Dailekh,2067,Primary Janjati enrollment,Grade 2,Girls,Janjati,818
+Dailekh,2067,Primary Janjati enrollment,Grade 2,Boys,Janjati,744
+Dailekh,2067,Primary Janjati enrollment,Grade 2,Total,Janjati,1562
+Dailekh,2067,Primary Janjati enrollment,Grade 3,Girls,Janjati,648
+Dailekh,2067,Primary Janjati enrollment,Grade 3,Boys,Janjati,613
+Dailekh,2067,Primary Janjati enrollment,Grade 3,Total,Janjati,1261
+Dailekh,2067,Primary Janjati enrollment,Grade 4,Girls,Janjati,618
+Dailekh,2067,Primary Janjati enrollment,Grade 4,Boys,Janjati,593
+Dailekh,2067,Primary Janjati enrollment,Grade 4,Total,Janjati,1211
+Dailekh,2067,Primary Janjati enrollment,Grade 5,Girls,Janjati,700
+Dailekh,2067,Primary Janjati enrollment,Grade 5,Boys,Janjati,568
+Dailekh,2067,Primary Janjati enrollment,Grade 5,Total,Janjati,1268
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,4366
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,4121
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,8487
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,3340
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,3327
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,6667
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,2898
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,3046
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,5944
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,2588
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,2843
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,5431
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,2133
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,3462
+Dailekh,2067,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,5595
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,1208
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,1248
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,2456
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,721
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,819
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,1540
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,481
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,707
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,1188
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,405
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,578
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,983
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,245
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,362
+Dailekh,2067,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,607
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,548
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,517
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,1065
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,450
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,454
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,904
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,346
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,387
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,733
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,361
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,364
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,725
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,265
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,668
+Dailekh,2067,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,933
+Dailekh,2067,Higher Secondary Total,Grade 11,Girls,Total (Including All),1216
+Dailekh,2067,Higher Secondary Total,Grade 11,Boys,Total (Including All),1732
+Dailekh,2067,Higher Secondary Total,Grade 11,Total,Total (Including All),2948
+Dailekh,2067,Higher Secondary Total,Grade 12,Girls,Total (Including All),1178
+Dailekh,2067,Higher Secondary Total,Grade 12,Boys,Total (Including All),1513
+Dailekh,2067,Higher Secondary Total,Grade 12,Total,Total (Including All),2691
+Dailekh,2067,Higher Secondary  Dalit,Grade 11,Girls,Dalit,82
+Dailekh,2067,Higher Secondary  Dalit,Grade 11,Boys,Dalit,145
+Dailekh,2067,Higher Secondary  Dalit,Grade 11,Total,Dalit,227
+Dailekh,2067,Higher Secondary  Dalit,Grade 12,Girls,Dalit,100
+Dailekh,2067,Higher Secondary  Dalit,Grade 12,Boys,Dalit,163
+Dailekh,2067,Higher Secondary  Dalit,Grade 12,Total,Dalit,263
+Dailekh,2067,Higher Secondary Janjati,Grade 11,Girls,Janjati,113
+Dailekh,2067,Higher Secondary Janjati,Grade 11,Boys,Janjati,116
+Dailekh,2067,Higher Secondary Janjati,Grade 11,Total,Janjati,229
+Dailekh,2067,Higher Secondary Janjati,Grade 12,Girls,Janjati,115
+Dailekh,2067,Higher Secondary Janjati,Grade 12,Boys,Janjati,112
+Dailekh,2067,Higher Secondary Janjati,Grade 12,Total,Janjati,227
+Dailekh,2068,ECD/PPC,ECD/PPC,Girls,Dalit,1234
+Dailekh,2068,ECD/PPC,ECD/PPC,Boys,Dalit,1127
+Dailekh,2068,ECD/PPC,ECD/PPC,Total,Dalit,2361
+Dailekh,2068,ECD/PPC,ECD/PPC,Girls,Janjati,520
+Dailekh,2068,ECD/PPC,ECD/PPC,Boys,Janjati,491
+Dailekh,2068,ECD/PPC,ECD/PPC,Total,Janjati,1011
+Dailekh,2068,ECD/PPC,ECD/PPC,Girls,Others,2094
+Dailekh,2068,ECD/PPC,ECD/PPC,Boys,Others,2342
+Dailekh,2068,ECD/PPC,ECD/PPC,Total,Others,4436
+Dailekh,2068,Primary Total enrollment,Grade 1,Girls,Others,6738
+Dailekh,2068,Primary Total enrollment,Grade 1,Boys,Others,7194
+Dailekh,2068,Primary Total enrollment,Grade 1,Total,Others,13932
+Dailekh,2068,Primary Total enrollment,Grade 2,Girls,Others,5535
+Dailekh,2068,Primary Total enrollment,Grade 2,Boys,Others,5600
+Dailekh,2068,Primary Total enrollment,Grade 2,Total,Others,11135
+Dailekh,2068,Primary Total enrollment,Grade 3,Girls,Others,4453
+Dailekh,2068,Primary Total enrollment,Grade 3,Boys,Others,4112
+Dailekh,2068,Primary Total enrollment,Grade 3,Total,Others,8565
+Dailekh,2068,Primary Total enrollment,Grade 4,Girls,Others,4440
+Dailekh,2068,Primary Total enrollment,Grade 4,Boys,Others,3902
+Dailekh,2068,Primary Total enrollment,Grade 4,Total,Others,8342
+Dailekh,2068,Primary Total enrollment,Grade 5,Girls,Others,4098
+Dailekh,2068,Primary Total enrollment,Grade 5,Boys,Others,3954
+Dailekh,2068,Primary Total enrollment,Grade 5,Total,Others,8052
+Dailekh,2068,Primary Dalit enrollment,Grade 1,Girls,Dalit,3233
+Dailekh,2068,Primary Dalit enrollment,Grade 1,Boys,Dalit,3420
+Dailekh,2068,Primary Dalit enrollment,Grade 1,Total,Dalit,6653
+Dailekh,2068,Primary Dalit enrollment,Grade 2,Girls,Dalit,2309
+Dailekh,2068,Primary Dalit enrollment,Grade 2,Boys,Dalit,2088
+Dailekh,2068,Primary Dalit enrollment,Grade 2,Total,Dalit,4397
+Dailekh,2068,Primary Dalit enrollment,Grade 3,Girls,Dalit,1969
+Dailekh,2068,Primary Dalit enrollment,Grade 3,Boys,Dalit,1903
+Dailekh,2068,Primary Dalit enrollment,Grade 3,Total,Dalit,3872
+Dailekh,2068,Primary Dalit enrollment,Grade 4,Girls,Dalit,1694
+Dailekh,2068,Primary Dalit enrollment,Grade 4,Boys,Dalit,1553
+Dailekh,2068,Primary Dalit enrollment,Grade 4,Total,Dalit,3247
+Dailekh,2068,Primary Dalit enrollment,Grade 5,Girls,Dalit,1478
+Dailekh,2068,Primary Dalit enrollment,Grade 5,Boys,Dalit,1294
+Dailekh,2068,Primary Dalit enrollment,Grade 5,Total,Dalit,2772
+Dailekh,2068,Primary Janjati enrollment,Grade 1,Girls,Janjati,863
+Dailekh,2068,Primary Janjati enrollment,Grade 1,Boys,Janjati,973
+Dailekh,2068,Primary Janjati enrollment,Grade 1,Total,Janjati,1836
+Dailekh,2068,Primary Janjati enrollment,Grade 2,Girls,Janjati,784
+Dailekh,2068,Primary Janjati enrollment,Grade 2,Boys,Janjati,725
+Dailekh,2068,Primary Janjati enrollment,Grade 2,Total,Janjati,1509
+Dailekh,2068,Primary Janjati enrollment,Grade 3,Girls,Janjati,634
+Dailekh,2068,Primary Janjati enrollment,Grade 3,Boys,Janjati,547
+Dailekh,2068,Primary Janjati enrollment,Grade 3,Total,Janjati,1181
+Dailekh,2068,Primary Janjati enrollment,Grade 4,Girls,Janjati,554
+Dailekh,2068,Primary Janjati enrollment,Grade 4,Boys,Janjati,543
+Dailekh,2068,Primary Janjati enrollment,Grade 4,Total,Janjati,1097
+Dailekh,2068,Primary Janjati enrollment,Grade 5,Girls,Janjati,586
+Dailekh,2068,Primary Janjati enrollment,Grade 5,Boys,Janjati,542
+Dailekh,2068,Primary Janjati enrollment,Grade 5,Total,Janjati,1128
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,4559
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,4481
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,9040
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,4062
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,3799
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,7861
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,3437
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,3549
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,6986
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,2501
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,2763
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,5264
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,2206
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,2377
+Dailekh,2068,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,4583
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,1171
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,1315
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,2486
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,932
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,1119
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,2051
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,626
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,765
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,1391
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,365
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,504
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,869
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,292
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,423
+Dailekh,2068,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,715
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,624
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,567
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,1191
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,502
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,482
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,984
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,440
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,449
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,889
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,298
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,327
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,625
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,294
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,288
+Dailekh,2068,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,582
+Dailekh,2068,Higher Secondary Total,Grade 11,Girls,Others,915
+Dailekh,2068,Higher Secondary Total,Grade 11,Boys,Others,1365
+Dailekh,2068,Higher Secondary Total,Grade 11,Total,Others,2280
+Dailekh,2068,Higher Secondary Total,Grade 12,Girls,Others,892
+Dailekh,2068,Higher Secondary Total,Grade 12,Boys,Others,1201
+Dailekh,2068,Higher Secondary Total,Grade 12,Total,Others,2093
+Dailekh,2068,Higher Secondary  Dalit,Grade 11,Girls,Dalit,96
+Dailekh,2068,Higher Secondary  Dalit,Grade 11,Boys,Dalit,168
+Dailekh,2068,Higher Secondary  Dalit,Grade 11,Total,Dalit,264
+Dailekh,2068,Higher Secondary  Dalit,Grade 12,Girls,Dalit,83
+Dailekh,2068,Higher Secondary  Dalit,Grade 12,Boys,Dalit,141
+Dailekh,2068,Higher Secondary  Dalit,Grade 12,Total,Dalit,224
+Dailekh,2068,Higher Secondary Janjati,Grade 11,Girls,Janjati,122
+Dailekh,2068,Higher Secondary Janjati,Grade 11,Boys,Janjati,143
+Dailekh,2068,Higher Secondary Janjati,Grade 11,Total,Janjati,265
+Dailekh,2068,Higher Secondary Janjati,Grade 12,Girls,Janjati,89
+Dailekh,2068,Higher Secondary Janjati,Grade 12,Boys,Janjati,129
+Dailekh,2068,Higher Secondary Janjati,Grade 12,Total,Janjati,218
+Dailekh,2069,ECD/PPC,ECD/PPC,Girls,Dalit,1747
+Dailekh,2069,ECD/PPC,ECD/PPC,Boys,Dalit,1611
+Dailekh,2069,ECD/PPC,ECD/PPC,Total,Dalit,3358
+Dailekh,2069,ECD/PPC,ECD/PPC,Girls,Janjati,791
+Dailekh,2069,ECD/PPC,ECD/PPC,Boys,Janjati,739
+Dailekh,2069,ECD/PPC,ECD/PPC,Total,Janjati,1530
+Dailekh,2069,ECD/PPC,ECD/PPC,Girls,Others,2683
+Dailekh,2069,ECD/PPC,ECD/PPC,Boys,Others,2809
+Dailekh,2069,ECD/PPC,ECD/PPC,Total,Others,5492
+Dailekh,2069,Primary Total enrollment,Grade 1,Girls,Others,6720
+Dailekh,2069,Primary Total enrollment,Grade 1,Boys,Others,6655
+Dailekh,2069,Primary Total enrollment,Grade 1,Total,Others,13375
+Dailekh,2069,Primary Total enrollment,Grade 2,Girls,Others,4966
+Dailekh,2069,Primary Total enrollment,Grade 2,Boys,Others,4671
+Dailekh,2069,Primary Total enrollment,Grade 2,Total,Others,9637
+Dailekh,2069,Primary Total enrollment,Grade 3,Girls,Others,4974
+Dailekh,2069,Primary Total enrollment,Grade 3,Boys,Others,4639
+Dailekh,2069,Primary Total enrollment,Grade 3,Total,Others,9613
+Dailekh,2069,Primary Total enrollment,Grade 4,Girls,Others,4335
+Dailekh,2069,Primary Total enrollment,Grade 4,Boys,Others,3960
+Dailekh,2069,Primary Total enrollment,Grade 4,Total,Others,8295
+Dailekh,2069,Primary Total enrollment,Grade 5,Girls,Others,4204
+Dailekh,2069,Primary Total enrollment,Grade 5,Boys,Others,3742
+Dailekh,2069,Primary Total enrollment,Grade 5,Total,Others,7946
+Dailekh,2069,Primary Dalit enrollment,Grade 1,Girls,Dalit,3399
+Dailekh,2069,Primary Dalit enrollment,Grade 1,Boys,Dalit,3517
+Dailekh,2069,Primary Dalit enrollment,Grade 1,Total,Dalit,6916
+Dailekh,2069,Primary Dalit enrollment,Grade 2,Girls,Dalit,2252
+Dailekh,2069,Primary Dalit enrollment,Grade 2,Boys,Dalit,2171
+Dailekh,2069,Primary Dalit enrollment,Grade 2,Total,Dalit,4423
+Dailekh,2069,Primary Dalit enrollment,Grade 3,Girls,Dalit,2079
+Dailekh,2069,Primary Dalit enrollment,Grade 3,Boys,Dalit,1893
+Dailekh,2069,Primary Dalit enrollment,Grade 3,Total,Dalit,3972
+Dailekh,2069,Primary Dalit enrollment,Grade 4,Girls,Dalit,1700
+Dailekh,2069,Primary Dalit enrollment,Grade 4,Boys,Dalit,1605
+Dailekh,2069,Primary Dalit enrollment,Grade 4,Total,Dalit,3305
+Dailekh,2069,Primary Dalit enrollment,Grade 5,Girls,Dalit,1558
+Dailekh,2069,Primary Dalit enrollment,Grade 5,Boys,Dalit,1481
+Dailekh,2069,Primary Dalit enrollment,Grade 5,Total,Dalit,3039
+Dailekh,2069,Primary Janjati enrollment,Grade 1,Girls,Janjati,797
+Dailekh,2069,Primary Janjati enrollment,Grade 1,Boys,Janjati,795
+Dailekh,2069,Primary Janjati enrollment,Grade 1,Total,Janjati,1592
+Dailekh,2069,Primary Janjati enrollment,Grade 2,Girls,Janjati,659
+Dailekh,2069,Primary Janjati enrollment,Grade 2,Boys,Janjati,662
+Dailekh,2069,Primary Janjati enrollment,Grade 2,Total,Janjati,1321
+Dailekh,2069,Primary Janjati enrollment,Grade 3,Girls,Janjati,720
+Dailekh,2069,Primary Janjati enrollment,Grade 3,Boys,Janjati,675
+Dailekh,2069,Primary Janjati enrollment,Grade 3,Total,Janjati,1395
+Dailekh,2069,Primary Janjati enrollment,Grade 4,Girls,Janjati,582
+Dailekh,2069,Primary Janjati enrollment,Grade 4,Boys,Janjati,559
+Dailekh,2069,Primary Janjati enrollment,Grade 4,Total,Janjati,1141
+Dailekh,2069,Primary Janjati enrollment,Grade 5,Girls,Janjati,544
+Dailekh,2069,Primary Janjati enrollment,Grade 5,Boys,Janjati,504
+Dailekh,2069,Primary Janjati enrollment,Grade 5,Total,Janjati,1048
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 6,Girls,Others,3987
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 6,Boys,Others,3706
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 6,Total,Others,7693
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 7,Girls,Others,4197
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 7,Boys,Others,3592
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 7,Total,Others,7789
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 8,Girls,Others,4110
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 8,Boys,Others,3831
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 8,Total,Others,7941
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 9,Girls,Others,3234
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 9,Boys,Others,3069
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 9,Total,Others,6303
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 10,Girls,Others,2561
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 10,Boys,Others,2690
+Dailekh,2069,Lower Secondary & Secondary total enrollment,Grade 10,Total,Others,5251
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 6,Girls,Dalit,1305
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 6,Boys,Dalit,1174
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 6,Total,Dalit,2479
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 7,Girls,Dalit,1045
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 7,Boys,Dalit,1020
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 7,Total,Dalit,2065
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 8,Girls,Dalit,860
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 8,Boys,Dalit,909
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 8,Total,Dalit,1769
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 9,Girls,Dalit,510
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 9,Boys,Dalit,648
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 9,Total,Dalit,1158
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 10,Girls,Dalit,346
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 10,Boys,Dalit,454
+Dailekh,2069,Lower Secondary & Secondary dalit enrollment,Grade 10,Total,Dalit,800
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 6,Girls,Janjati,565
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 6,Boys,Janjati,529
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 6,Total,Janjati,1094
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 7,Girls,Janjati,559
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 7,Boys,Janjati,498
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 7,Total,Janjati,1057
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 8,Girls,Janjati,501
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 8,Boys,Janjati,503
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 8,Total,Janjati,1004
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 9,Girls,Janjati,388
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 9,Boys,Janjati,386
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 9,Total,Janjati,774
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 10,Girls,Janjati,284
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 10,Boys,Janjati,276
+Dailekh,2069,Lower Secondary & Secondary Janjati enrollment,Grade 10,Total,Janjati,560
+Dailekh,2069,Higher Secondary Total,Grade 11,Girls,Others,1244
+Dailekh,2069,Higher Secondary Total,Grade 11,Boys,Others,2005
+Dailekh,2069,Higher Secondary Total,Grade 11,Total,Others,1060
+Dailekh,2069,Higher Secondary Total,Grade 12,Girls,Others,1647
+Dailekh,2069,Higher Secondary Total,Grade 12,Boys,Others,2673
+Dailekh,2069,Higher Secondary Total,Grade 12,Total,Others,4320
+Dailekh,2069,Higher Secondary  Dalit,Grade 11,Girls,Dalit,65
+Dailekh,2069,Higher Secondary  Dalit,Grade 11,Boys,Dalit,143
+Dailekh,2069,Higher Secondary  Dalit,Grade 11,Total,Dalit,208
+Dailekh,2069,Higher Secondary  Dalit,Grade 12,Girls,Dalit,67
+Dailekh,2069,Higher Secondary  Dalit,Grade 12,Boys,Dalit,152
+Dailekh,2069,Higher Secondary  Dalit,Grade 12,Total,Dalit,219
+Dailekh,2069,Higher Secondary Janjati,Grade 11,Girls,Janjati,105
+Dailekh,2069,Higher Secondary Janjati,Grade 11,Boys,Janjati,125
+Dailekh,2069,Higher Secondary Janjati,Grade 11,Total,Janjati,230
+Dailekh,2069,Higher Secondary Janjati,Grade 12,Girls,Janjati,103
+Dailekh,2069,Higher Secondary Janjati,Grade 12,Boys,Janjati,176
+Dailekh,2069,Higher Secondary Janjati,Grade 12,Total,Janjati,279
+Dailekh,2068,Regular,SLC Attendees,TOT,Overall,4859
+Dailekh,2068,Regular,SLC Attendees,BOYS,Overall,2609
+Dailekh,2068,Regular,SLC Attendees,GIRLS,Overall,2250
+Dailekh,2068,Exempted,SLC Attendees,TOT,Overall,2981
+Dailekh,2068,Exempted,SLC Attendees,BOYS,Overall,1611
+Dailekh,2068,Exempted,SLC Attendees,GIRLS,Overall,1370
