@@ -1,301 +1,301 @@
-District ,Level,Number of Student 
-Achham,Grade (1-5),67118
-Achham,Grade(6-8),21889
-Achham,Grade (9-10),10947
-Achham,Grade(11-12),3535
-Arghakhanchi,Grade (1-5),37487
-Arghakhanchi,Grade(6-8),16580
-Arghakhanchi,Grade (9-10),7366
-Arghakhanchi,Grade(11-12),2571
-Baglung,Grade (1-5),52588
-Baglung,Grade(6-8),22658
-Baglung,Grade (9-10),11389
-Baglung,Grade(11-12),6970
-Baitadi,Grade (1-5),60267
-Baitadi,Grade(6-8),21869
-Baitadi,Grade (9-10),10270
-Baitadi,Grade(11-12),5096
-Bajhang,Grade (1-5),53371
-Bajhang,Grade(6-8),15933
-Bajhang,Grade (9-10),6759
-Bajhang,Grade(11-12),2974
-Bajura,Grade (1-5),34467
-Bajura,Grade(6-8),12120
-Bajura,Grade (9-10),4945
-Bajura,Grade(11-12),2292
-Banke,Grade (1-5),91487
-Banke,Grade(6-8),31067
-Banke,Grade (9-10),14155
-Banke,Grade(11-12),6723
-Bara,Grade (1-5),164065
-Bara,Grade(6-8),35071
-Bara,Grade (9-10),16011
-Bara,Grade(11-12),4086
-Bardiya,Grade (1-5),67768
-Bardiya,Grade(6-8),38632
-Bardiya,Grade (9-10),15475
-Bardiya,Grade(11-12),6808
-Bhaktapur,Grade (1-5),31804
-Bhaktapur,Grade(6-8),18416
-Bhaktapur,Grade (9-10),12187
-Bhaktapur,Grade(11-12),4389
-Bhojpur,Grade (1-5),32129
-Bhojpur,Grade(6-8),15548
-Bhojpur,Grade (9-10),7087
-Bhojpur,Grade(11-12),2503
-Chitwan,Grade (1-5),77460
-Chitwan,Grade(6-8),42797
-Chitwan,Grade (9-10),23200
-Chitwan,Grade(11-12),8109
-Dadeldhura,Grade (1-5),27422
-Dadeldhura,Grade(6-8),13033
-Dadeldhura,Grade (9-10),5153
-Dadeldhura,Grade(11-12),1896
-Dailekh,Grade (1-5),64024
-Dailekh,Grade(6-8),26581
-Dailekh,Grade (9-10),12178
-Dailekh,Grade(11-12),4672
-Dang,Grade (1-5),80251
-Dang,Grade(6-8),37595
-Dang,Grade (9-10),19691
-Dang,Grade(11-12),7825
-Darchula,Grade (1-5),27809
-Darchula,Grade(6-8),10911
-Darchula,Grade (9-10),5056
-Darchula,Grade(11-12),3412
-Dhading,Grade (1-5),60114
-Dhading,Grade(6-8),27747
-Dhading,Grade (9-10),12657
-Dhading,Grade(11-12),5785
-Dhankuta,Grade (1-5),24552
-Dhankuta,Grade(6-8),13794
-Dhankuta,Grade (9-10),6773
-Dhankuta,Grade(11-12),3770
-Dhanusha,Grade (1-5),123856
-Dhanusha,Grade(6-8),35758
-Dhanusha,Grade (9-10),15341
-Dhanusha,Grade(11-12),626
-Dolakha,Grade (1-5),34320
-Dolakha,Grade(6-8),16462
-Dolakha,Grade (9-10),8229
-Dolakha,Grade(11-12),3937
-Dolpa,Grade (1-5),6892
-Dolpa,Grade(6-8),2005
-Dolpa,Grade (9-10),915
-Dolpa,Grade(11-12),276
-Doti,Grade (1-5),46020
-Doti,Grade(6-8),14103
-Doti,Grade (9-10),5746
-Doti,Grade(11-12),2472
-Gorkha,Grade (1-5),47564
-Gorkha,Grade(6-8),23528
-Gorkha,Grade (9-10),11612
-Gorkha,Grade(11-12),3395
-Gulmi,Grade (1-5),49864
-Gulmi,Grade(6-8),21750
-Gulmi,Grade (9-10),11051
-Gulmi,Grade(11-12),3829
-Humla,Grade (1-5),14376
-Humla,Grade(6-8),3160
-Humla,Grade (9-10),1425
-Humla,Grade(11-12),521
-Ilam,Grade (1-5),41287
-Ilam,Grade(6-8),22530
-Ilam,Grade (9-10),9523
-Ilam,Grade(11-12),5143
-Jajarkot,Grade (1-5),60303
-Jajarkot,Grade(6-8),18477
-Jajarkot,Grade (9-10),8507
-Jajarkot,Grade(11-12),3231
-Jhapa,Grade (1-5),99837
-Jhapa,Grade(6-8),52748
-Jhapa,Grade (9-10),26049
-Jhapa,Grade(11-12),13671
-Jumla,Grade (1-5),26752
-Jumla,Grade(6-8),8382
-Jumla,Grade (9-10),3348
-Jumla,Grade(11-12),1059
-Kailali,Grade (1-5),131430
-Kailali,Grade(6-8),57954
-Kailali,Grade (9-10),29281
-Kailali,Grade(11-12),9855
-Kalikot,Grade (1-5),35326
-Kalikot,Grade(6-8),13164
-Kalikot,Grade (9-10),6000
-Kalikot,Grade(11-12),3616
-Kanchanpur,Grade (1-5),67976
-Kanchanpur,Grade(6-8),34994
-Kanchanpur,Grade (9-10),17435
-Kanchanpur,Grade(11-12),7930
-Kapilbastu,Grade (1-5),106647
-Kapilbastu,Grade(6-8),29512
-Kapilbastu,Grade (9-10),13001
-Kapilbastu,Grade(11-12),5338
-Kaski,Grade (1-5),62808
-Kaski,Grade(6-8),36430
-Kaski,Grade (9-10),21040
-Kaski,Grade(11-12),18066
-Kathmandu,Grade (1-5),172232
-Kathmandu,Grade(6-8),94375
-Kathmandu,Grade (9-10),56521
-Kathmandu,Grade(11-12),27059
-Kavrepalanchok,Grade (1-5),62418
-Kavrepalanchok,Grade(6-8),31374
-Kavrepalanchok,Grade (9-10),17404
-Kavrepalanchok,Grade(11-12),7637
-Khotang,Grade (1-5),47795
-Khotang,Grade(6-8),18466
-Khotang,Grade (9-10),9629
-Khotang,Grade(11-12),3962
-Lalitpur,Grade (1-5),57014
-Lalitpur,Grade(6-8),32180
-Lalitpur,Grade (9-10),19542
-Lalitpur,Grade(11-12),8584
-Lamjung,Grade (1-5),27742
-Lamjung,Grade(6-8),14098
-Lamjung,Grade (9-10),7547
-Lamjung,Grade(11-12),3062
-Mahottari,Grade (1-5),134087
-Mahottari,Grade(6-8),32850
-Mahottari,Grade (9-10),12996
-Mahottari,Grade(11-12),4642
-Makwanpur,Grade (1-5),74022
-Makwanpur,Grade(6-8),30737
-Makwanpur,Grade (9-10),11269
-Makwanpur,Grade(11-12),3945
-Manang,Grade (1-5),418
-Manang,Grade(6-8),221
-Manang,Grade (9-10),132
-Manang,Grade(11-12),119
-Morang,Grade (1-5),112644
-Morang,Grade(6-8),51885
-Morang,Grade (9-10),23753
-Morang,Grade(11-12),10230
-Mugu,Grade (1-5),10824
-Mugu,Grade(6-8),5144
-Mugu,Grade (9-10),1964
-Mugu,Grade(11-12),808
-Mustang,Grade (1-5),1590
-Mustang,Grade(6-8),524
-Mustang,Grade (9-10),256
-Mustang,Grade(11-12),54
-Myagdi,Grade (1-5),18068
-Myagdi,Grade(6-8),9282
-Myagdi,Grade (9-10),4573
-Myagdi,Grade(11-12),2305
-Nawalparasi,Grade (1-5),103427
-Nawalparasi,Grade(6-8),48042
-Nawalparasi,Grade (9-10),22982
-Nawalparasi,Grade(11-12),11085
-Nuwakot,Grade (1-5),45593
-Nuwakot,Grade(6-8),19518
-Nuwakot,Grade (9-10),9689
-Nuwakot,Grade(11-12),3781
-Okhaldhunga,Grade (1-5),26376
-Okhaldhunga,Grade(6-8),13125
-Okhaldhunga,Grade (9-10),6485
-Okhaldhunga,Grade(11-12),2304
-Palpa,Grade (1-5),43914
-Palpa,Grade(6-8),22941
-Palpa,Grade (9-10),9914
-Palpa,Grade(11-12),6191
-Panchthar,Grade (1-5),33658
-Panchthar,Grade(6-8),17925
-Panchthar,Grade (9-10),9239
-Panchthar,Grade(11-12),3589
-Parbat,Grade (1-5),22482
-Parbat,Grade(6-8),12019
-Parbat,Grade (9-10),7020
-Parbat,Grade(11-12),3493
-Parsa,Grade (1-5),109990
-Parsa,Grade(6-8),23946
-Parsa,Grade (9-10),9519
-Parsa,Grade(11-12),1696
-Pyuthan,Grade (1-5),47950
-Pyuthan,Grade(6-8),17987
-Pyuthan,Grade (9-10),5748
-Pyuthan,Grade(11-12),2587
-Ramechhap,Grade (1-5),36273
-Ramechhap,Grade(6-8),19558
-Ramechhap,Grade (9-10),10696
-Ramechhap,Grade(11-12),5047
-Rasuwa,Grade (1-5),7918
-Rasuwa,Grade(6-8),3317
-Rasuwa,Grade (9-10),1813
-Rasuwa,Grade(11-12),963
-Rautahat,Grade (1-5),136479
-Rautahat,Grade(6-8),27855
-Rautahat,Grade (9-10),14258
-Rautahat,Grade(11-12),10068
-Rolpa,Grade (1-5),53913
-Rolpa,Grade(6-8),17023
-Rolpa,Grade (9-10),5674
-Rolpa,Grade(11-12),1778
-Rukum,Grade (1-5),65217
-Rukum,Grade(6-8),21009
-Rukum,Grade (9-10),9422
-Rukum,Grade(11-12),4853
-Rupandehi,Grade (1-5),131448
-Rupandehi,Grade(6-8),55812
-Rupandehi,Grade (9-10),26562
-Rupandehi,Grade(11-12),11376
-Salyan,Grade (1-5),50966
-Salyan,Grade(6-8),23958
-Salyan,Grade (9-10),9818
-Salyan,Grade(11-12),4320
-Sankhuwasabha,Grade (1-5),34616
-Sankhuwasabha,Grade(6-8),12571
-Sankhuwasabha,Grade (9-10),5424
-Sankhuwasabha,Grade(11-12),1963
-Saptari,Grade (1-5),87018
-Saptari,Grade(6-8),27841
-Saptari,Grade (9-10),12479
-Saptari,Grade(11-12),2927
-Sarlahi,Grade (1-5),164862
-Sarlahi,Grade(6-8),31455
-Sarlahi,Grade (9-10),13699
-Sarlahi,Grade(11-12),5511
-Sindhuli,Grade (1-5),65101
-Sindhuli,Grade(6-8),26157
-Sindhuli,Grade (9-10),11592
-Sindhuli,Grade(11-12),7393
-Sindhupalchok,Grade (1-5),56910
-Sindhupalchok,Grade(6-8),23815
-Sindhupalchok,Grade (9-10),11744
-Sindhupalchok,Grade(11-12),5094
-Siraha,Grade (1-5),101039
-Siraha,Grade(6-8),32450
-Siraha,Grade (9-10),15413
-Siraha,Grade(11-12),6644
-Solukhumbu,Grade (1-5),30127
-Solukhumbu,Grade(6-8),8798
-Solukhumbu,Grade (9-10),3985
-Solukhumbu,Grade(11-12),2133
-Sunsari,Grade (1-5),113468
-Sunsari,Grade(6-8),45621
-Sunsari,Grade (9-10),24362
-Sunsari,Grade(11-12),8358
-Surkhet,Grade (1-5),74347
-Surkhet,Grade(6-8),33144
-Surkhet,Grade (9-10),13557
-Surkhet,Grade(11-12),7629
-Syangja,Grade (1-5),43571
-Syangja,Grade(6-8),24458
-Syangja,Grade (9-10),14094
-Syangja,Grade(11-12),8715
-Tanahu,Grade (1-5),54087
-Tanahu,Grade(6-8),27744
-Tanahu,Grade (9-10),13345
-Tanahu,Grade(11-12),5920
-Taplejung,Grade (1-5),34317
-Taplejung,Grade(6-8),13077
-Taplejung,Grade (9-10),5589
-Taplejung,Grade(11-12),3037
-Terhathum,Grade (1-5),18462
-Terhathum,Grade(6-8),8710
-Terhathum,Grade (9-10),4629
-Terhathum,Grade(11-12),2380
-Udayapur,Grade (1-5),54790
-Udayapur,Grade(6-8),28982
-Udayapur,Grade (9-10),13908
-Udayapur,Grade(11-12),5109
+District ,Zone,Geographical Region,Development Region,Level,Number of Student 
+Achham,Seti,Hill,Far-Western,Grade (1-5),67118
+Achham,Seti,Hill,Far-Western,Grade(6-8),21889
+Achham,Seti,Hill,Far-Western,Grade (9-10),10947
+Achham,Seti,Hill,Far-Western,Grade(11-12),3535
+Arghakhanchi,Lumbini,Hill,Western,Grade (1-5),37487
+Arghakhanchi,Lumbini,Hill,Western,Grade(6-8),16580
+Arghakhanchi,Lumbini,Hill,Western,Grade (9-10),7366
+Arghakhanchi,Lumbini,Hill,Western,Grade(11-12),2571
+Baglung,Dhawalagiri,Hill,Western,Grade (1-5),52588
+Baglung,Dhawalagiri,Hill,Western,Grade(6-8),22658
+Baglung,Dhawalagiri,Hill,Western,Grade (9-10),11389
+Baglung,Dhawalagiri,Hill,Western,Grade(11-12),6970
+Baitadi,Mahakali,Hill,Far-Western,Grade (1-5),60267
+Baitadi,Mahakali,Hill,Far-Western,Grade(6-8),21869
+Baitadi,Mahakali,Hill,Far-Western,Grade (9-10),10270
+Baitadi,Mahakali,Hill,Far-Western,Grade(11-12),5096
+Bajhang,Seti,Mountain,Far-Western,Grade (1-5),53371
+Bajhang,Seti,Mountain,Far-Western,Grade(6-8),15933
+Bajhang,Seti,Mountain,Far-Western,Grade (9-10),6759
+Bajhang,Seti,Mountain,Far-Western,Grade(11-12),2974
+Bajura,Seti,Mountain,Far-Western,Grade (1-5),34467
+Bajura,Seti,Mountain,Far-Western,Grade(6-8),12120
+Bajura,Seti,Mountain,Far-Western,Grade (9-10),4945
+Bajura,Seti,Mountain,Far-Western,Grade(11-12),2292
+Banke,Bheri,Terai,Mid-Western,Grade (1-5),91487
+Banke,Bheri,Terai,Mid-Western,Grade(6-8),31067
+Banke,Bheri,Terai,Mid-Western,Grade (9-10),14155
+Banke,Bheri,Terai,Mid-Western,Grade(11-12),6723
+Bara,Narayani,Terai,Central,Grade (1-5),164065
+Bara,Narayani,Terai,Central,Grade(6-8),35071
+Bara,Narayani,Terai,Central,Grade (9-10),16011
+Bara,Narayani,Terai,Central,Grade(11-12),4086
+Bardiya,Bheri,Terai,Mid-Western,Grade (1-5),67768
+Bardiya,Bheri,Terai,Mid-Western,Grade(6-8),38632
+Bardiya,Bheri,Terai,Mid-Western,Grade (9-10),15475
+Bardiya,Bheri,Terai,Mid-Western,Grade(11-12),6808
+Bhaktapur,Bagmati,Hill,Central,Grade (1-5),31804
+Bhaktapur,Bagmati,Hill,Central,Grade(6-8),18416
+Bhaktapur,Bagmati,Hill,Central,Grade (9-10),12187
+Bhaktapur,Bagmati,Hill,Central,Grade(11-12),4389
+Bhojpur,Kosi,Hill,Eastern,Grade (1-5),32129
+Bhojpur,Kosi,Hill,Eastern,Grade(6-8),15548
+Bhojpur,Kosi,Hill,Eastern,Grade (9-10),7087
+Bhojpur,Kosi,Hill,Eastern,Grade(11-12),2503
+Chitawan,Narayani,Terai,Central,Grade (1-5),77460
+Chitawan,Narayani,Terai,Central,Grade(6-8),42797
+Chitawan,Narayani,Terai,Central,Grade (9-10),23200
+Chitawan,Narayani,Terai,Central,Grade(11-12),8109
+Dadeldhura,Mahakali,Hill,Far-Western,Grade (1-5),27422
+Dadeldhura,Mahakali,Hill,Far-Western,Grade(6-8),13033
+Dadeldhura,Mahakali,Hill,Far-Western,Grade (9-10),5153
+Dadeldhura,Mahakali,Hill,Far-Western,Grade(11-12),1896
+Dailekh,Bheri,Hill,Mid-Western,Grade (1-5),64024
+Dailekh,Bheri,Hill,Mid-Western,Grade(6-8),26581
+Dailekh,Bheri,Hill,Mid-Western,Grade (9-10),12178
+Dailekh,Bheri,Hill,Mid-Western,Grade(11-12),4672
+Dang,Rapti,Terai,Mid-Western,Grade (1-5),80251
+Dang,Rapti,Terai,Mid-Western,Grade(6-8),37595
+Dang,Rapti,Terai,Mid-Western,Grade (9-10),19691
+Dang,Rapti,Terai,Mid-Western,Grade(11-12),7825
+Darchaula,Mahakali,Mountain,Far-Western,Grade (1-5),27809
+Darchaula,Mahakali,Mountain,Far-Western,Grade(6-8),10911
+Darchaula,Mahakali,Mountain,Far-Western,Grade (9-10),5056
+Darchaula,Mahakali,Mountain,Far-Western,Grade(11-12),3412
+Dhading,Bagmati,Hill,Central,Grade (1-5),60114
+Dhading,Bagmati,Hill,Central,Grade(6-8),27747
+Dhading,Bagmati,Hill,Central,Grade (9-10),12657
+Dhading,Bagmati,Hill,Central,Grade(11-12),5785
+Dhankuta,Kosi,Hill,Eastern,Grade (1-5),24552
+Dhankuta,Kosi,Hill,Eastern,Grade(6-8),13794
+Dhankuta,Kosi,Hill,Eastern,Grade (9-10),6773
+Dhankuta,Kosi,Hill,Eastern,Grade(11-12),3770
+Dhanusa,Janakpur,Terai,Central,Grade (1-5),123856
+Dhanusa,Janakpur,Terai,Central,Grade(6-8),35758
+Dhanusa,Janakpur,Terai,Central,Grade (9-10),15341
+Dhanusa,Janakpur,Terai,Central,Grade(11-12),626
+Dolakha,Janakpur,Mountain,Central,Grade (1-5),34320
+Dolakha,Janakpur,Mountain,Central,Grade(6-8),16462
+Dolakha,Janakpur,Mountain,Central,Grade (9-10),8229
+Dolakha,Janakpur,Mountain,Central,Grade(11-12),3937
+Dolpa,Karnali,Mountain,Mid-Western,Grade (1-5),6892
+Dolpa,Karnali,Mountain,Mid-Western,Grade(6-8),2005
+Dolpa,Karnali,Mountain,Mid-Western,Grade (9-10),915
+Dolpa,Karnali,Mountain,Mid-Western,Grade(11-12),276
+Doti,Seti,Hill,Far-Western,Grade (1-5),46020
+Doti,Seti,Hill,Far-Western,Grade(6-8),14103
+Doti,Seti,Hill,Far-Western,Grade (9-10),5746
+Doti,Seti,Hill,Far-Western,Grade(11-12),2472
+Gorkha,Gandaki,Hill,Western,Grade (1-5),47564
+Gorkha,Gandaki,Hill,Western,Grade(6-8),23528
+Gorkha,Gandaki,Hill,Western,Grade (9-10),11612
+Gorkha,Gandaki,Hill,Western,Grade(11-12),3395
+Gulmi,Lumbini,Hill,Western,Grade (1-5),49864
+Gulmi,Lumbini,Hill,Western,Grade(6-8),21750
+Gulmi,Lumbini,Hill,Western,Grade (9-10),11051
+Gulmi,Lumbini,Hill,Western,Grade(11-12),3829
+Humla,Karnali,Mountain,Mid-Western,Grade (1-5),14376
+Humla,Karnali,Mountain,Mid-Western,Grade(6-8),3160
+Humla,Karnali,Mountain,Mid-Western,Grade (9-10),1425
+Humla,Karnali,Mountain,Mid-Western,Grade(11-12),521
+Ilam,Mechi,Hill,Eastern,Grade (1-5),41287
+Ilam,Mechi,Hill,Eastern,Grade(6-8),22530
+Ilam,Mechi,Hill,Eastern,Grade (9-10),9523
+Ilam,Mechi,Hill,Eastern,Grade(11-12),5143
+Jajarkot,Bheri,Hill,Mid-Western,Grade (1-5),60303
+Jajarkot,Bheri,Hill,Mid-Western,Grade(6-8),18477
+Jajarkot,Bheri,Hill,Mid-Western,Grade (9-10),8507
+Jajarkot,Bheri,Hill,Mid-Western,Grade(11-12),3231
+Jhapa,Mechi,Terai,Eastern,Grade (1-5),99837
+Jhapa,Mechi,Terai,Eastern,Grade(6-8),52748
+Jhapa,Mechi,Terai,Eastern,Grade (9-10),26049
+Jhapa,Mechi,Terai,Eastern,Grade(11-12),13671
+Jumla,Karnali,Mountain,Mid-Western,Grade (1-5),26752
+Jumla,Karnali,Mountain,Mid-Western,Grade(6-8),8382
+Jumla,Karnali,Mountain,Mid-Western,Grade (9-10),3348
+Jumla,Karnali,Mountain,Mid-Western,Grade(11-12),1059
+Kailali,Seti,Terai,Far-Western,Grade (1-5),131430
+Kailali,Seti,Terai,Far-Western,Grade(6-8),57954
+Kailali,Seti,Terai,Far-Western,Grade (9-10),29281
+Kailali,Seti,Terai,Far-Western,Grade(11-12),9855
+Kalikot,Karnali,Mountain,Mid-Western,Grade (1-5),35326
+Kalikot,Karnali,Mountain,Mid-Western,Grade(6-8),13164
+Kalikot,Karnali,Mountain,Mid-Western,Grade (9-10),6000
+Kalikot,Karnali,Mountain,Mid-Western,Grade(11-12),3616
+Kanchanpur,Mahakali,Terai,Far-Western,Grade (1-5),67976
+Kanchanpur,Mahakali,Terai,Far-Western,Grade(6-8),34994
+Kanchanpur,Mahakali,Terai,Far-Western,Grade (9-10),17435
+Kanchanpur,Mahakali,Terai,Far-Western,Grade(11-12),7930
+Kapilbastu,Lumbini,Terai,Western,Grade (1-5),106647
+Kapilbastu,Lumbini,Terai,Western,Grade(6-8),29512
+Kapilbastu,Lumbini,Terai,Western,Grade (9-10),13001
+Kapilbastu,Lumbini,Terai,Western,Grade(11-12),5338
+Kaski,Gandaki,Hill,Western,Grade (1-5),62808
+Kaski,Gandaki,Hill,Western,Grade(6-8),36430
+Kaski,Gandaki,Hill,Western,Grade (9-10),21040
+Kaski,Gandaki,Hill,Western,Grade(11-12),18066
+Kathmandu,Bagmati,Hill,Central,Grade (1-5),172232
+Kathmandu,Bagmati,Hill,Central,Grade(6-8),94375
+Kathmandu,Bagmati,Hill,Central,Grade (9-10),56521
+Kathmandu,Bagmati,Hill,Central,Grade(11-12),27059
+Kavre,Bagmati,Hill,Central,Grade (1-5),62418
+Kavre,Bagmati,Hill,Central,Grade(6-8),31374
+Kavre,Bagmati,Hill,Central,Grade (9-10),17404
+Kavre,Bagmati,Hill,Central,Grade(11-12),7637
+Khotang,Sagarmatha,Hill,Eastern,Grade (1-5),47795
+Khotang,Sagarmatha,Hill,Eastern,Grade(6-8),18466
+Khotang,Sagarmatha,Hill,Eastern,Grade (9-10),9629
+Khotang,Sagarmatha,Hill,Eastern,Grade(11-12),3962
+Lalitpur,Bagmati,Hill,Central,Grade (1-5),57014
+Lalitpur,Bagmati,Hill,Central,Grade(6-8),32180
+Lalitpur,Bagmati,Hill,Central,Grade (9-10),19542
+Lalitpur,Bagmati,Hill,Central,Grade(11-12),8584
+Lamjung,Gandaki,Hill,Western,Grade (1-5),27742
+Lamjung,Gandaki,Hill,Western,Grade(6-8),14098
+Lamjung,Gandaki,Hill,Western,Grade (9-10),7547
+Lamjung,Gandaki,Hill,Western,Grade(11-12),3062
+Mahottari,Janakpur,Terai,Central,Grade (1-5),134087
+Mahottari,Janakpur,Terai,Central,Grade(6-8),32850
+Mahottari,Janakpur,Terai,Central,Grade (9-10),12996
+Mahottari,Janakpur,Terai,Central,Grade(11-12),4642
+Makwanpur,Narayani,Hill,Central,Grade (1-5),74022
+Makwanpur,Narayani,Hill,Central,Grade(6-8),30737
+Makwanpur,Narayani,Hill,Central,Grade (9-10),11269
+Makwanpur,Narayani,Hill,Central,Grade(11-12),3945
+Manang,Gandaki,Mountain,Western,Grade (1-5),418
+Manang,Gandaki,Mountain,Western,Grade(6-8),221
+Manang,Gandaki,Mountain,Western,Grade (9-10),132
+Manang,Gandaki,Mountain,Western,Grade(11-12),119
+Morang,Kosi,Terai,Eastern,Grade (1-5),112644
+Morang,Kosi,Terai,Eastern,Grade(6-8),51885
+Morang,Kosi,Terai,Eastern,Grade (9-10),23753
+Morang,Kosi,Terai,Eastern,Grade(11-12),10230
+Mugu,Karnali,Mountain,Mid-Western,Grade (1-5),10824
+Mugu,Karnali,Mountain,Mid-Western,Grade(6-8),5144
+Mugu,Karnali,Mountain,Mid-Western,Grade (9-10),1964
+Mugu,Karnali,Mountain,Mid-Western,Grade(11-12),808
+Mustang,Dhawalagiri,Mountain,Western,Grade (1-5),1590
+Mustang,Dhawalagiri,Mountain,Western,Grade(6-8),524
+Mustang,Dhawalagiri,Mountain,Western,Grade (9-10),256
+Mustang,Dhawalagiri,Mountain,Western,Grade(11-12),54
+Myagdi,Dhawalagiri,Hill,Western,Grade (1-5),18068
+Myagdi,Dhawalagiri,Hill,Western,Grade(6-8),9282
+Myagdi,Dhawalagiri,Hill,Western,Grade (9-10),4573
+Myagdi,Dhawalagiri,Hill,Western,Grade(11-12),2305
+Nawalparasi,Lumbini,Terai,Western,Grade (1-5),103427
+Nawalparasi,Lumbini,Terai,Western,Grade(6-8),48042
+Nawalparasi,Lumbini,Terai,Western,Grade (9-10),22982
+Nawalparasi,Lumbini,Terai,Western,Grade(11-12),11085
+Nuwakot,Bagmati,Hill,Central,Grade (1-5),45593
+Nuwakot,Bagmati,Hill,Central,Grade(6-8),19518
+Nuwakot,Bagmati,Hill,Central,Grade (9-10),9689
+Nuwakot,Bagmati,Hill,Central,Grade(11-12),3781
+Okhaldhunga,Sagarmatha,Hill,Eastern,Grade (1-5),26376
+Okhaldhunga,Sagarmatha,Hill,Eastern,Grade(6-8),13125
+Okhaldhunga,Sagarmatha,Hill,Eastern,Grade (9-10),6485
+Okhaldhunga,Sagarmatha,Hill,Eastern,Grade(11-12),2304
+Palpa,Lumbini,Hill,Western,Grade (1-5),43914
+Palpa,Lumbini,Hill,Western,Grade(6-8),22941
+Palpa,Lumbini,Hill,Western,Grade (9-10),9914
+Palpa,Lumbini,Hill,Western,Grade(11-12),6191
+Panchthar,Mechi,Hill,Eastern,Grade (1-5),33658
+Panchthar,Mechi,Hill,Eastern,Grade(6-8),17925
+Panchthar,Mechi,Hill,Eastern,Grade (9-10),9239
+Panchthar,Mechi,Hill,Eastern,Grade(11-12),3589
+Parbat,Dhawalagiri,Hill,Western,Grade (1-5),22482
+Parbat,Dhawalagiri,Hill,Western,Grade(6-8),12019
+Parbat,Dhawalagiri,Hill,Western,Grade (9-10),7020
+Parbat,Dhawalagiri,Hill,Western,Grade(11-12),3493
+Parsa,Narayani,Terai,Central,Grade (1-5),109990
+Parsa,Narayani,Terai,Central,Grade(6-8),23946
+Parsa,Narayani,Terai,Central,Grade (9-10),9519
+Parsa,Narayani,Terai,Central,Grade(11-12),1696
+Pyuthan,Rapti,Hill,Mid-Western,Grade (1-5),47950
+Pyuthan,Rapti,Hill,Mid-Western,Grade(6-8),17987
+Pyuthan,Rapti,Hill,Mid-Western,Grade (9-10),5748
+Pyuthan,Rapti,Hill,Mid-Western,Grade(11-12),2587
+Ramechhap,Janakpur,Hill,Central,Grade (1-5),36273
+Ramechhap,Janakpur,Hill,Central,Grade(6-8),19558
+Ramechhap,Janakpur,Hill,Central,Grade (9-10),10696
+Ramechhap,Janakpur,Hill,Central,Grade(11-12),5047
+Rasuwa,Bagmati,Mountain,Central,Grade (1-5),7918
+Rasuwa,Bagmati,Mountain,Central,Grade(6-8),3317
+Rasuwa,Bagmati,Mountain,Central,Grade (9-10),1813
+Rasuwa,Bagmati,Mountain,Central,Grade(11-12),963
+Rautahat,Narayani,Terai,Central,Grade (1-5),136479
+Rautahat,Narayani,Terai,Central,Grade(6-8),27855
+Rautahat,Narayani,Terai,Central,Grade (9-10),14258
+Rautahat,Narayani,Terai,Central,Grade(11-12),10068
+Rolpa,Rapti,Hill,Mid-Western,Grade (1-5),53913
+Rolpa,Rapti,Hill,Mid-Western,Grade(6-8),17023
+Rolpa,Rapti,Hill,Mid-Western,Grade (9-10),5674
+Rolpa,Rapti,Hill,Mid-Western,Grade(11-12),1778
+Rukum,Rapti,Hill,Mid-Western,Grade (1-5),65217
+Rukum,Rapti,Hill,Mid-Western,Grade(6-8),21009
+Rukum,Rapti,Hill,Mid-Western,Grade (9-10),9422
+Rukum,Rapti,Hill,Mid-Western,Grade(11-12),4853
+Rupandehi,Lumbini,Terai,Western,Grade (1-5),131448
+Rupandehi,Lumbini,Terai,Western,Grade(6-8),55812
+Rupandehi,Lumbini,Terai,Western,Grade (9-10),26562
+Rupandehi,Lumbini,Terai,Western,Grade(11-12),11376
+Salyan,Rapti,Hill,Mid-Western,Grade (1-5),50966
+Salyan,Rapti,Hill,Mid-Western,Grade(6-8),23958
+Salyan,Rapti,Hill,Mid-Western,Grade (9-10),9818
+Salyan,Rapti,Hill,Mid-Western,Grade(11-12),4320
+Sankhuwasabha,Kosi,Mountain,Eastern,Grade (1-5),34616
+Sankhuwasabha,Kosi,Mountain,Eastern,Grade(6-8),12571
+Sankhuwasabha,Kosi,Mountain,Eastern,Grade (9-10),5424
+Sankhuwasabha,Kosi,Mountain,Eastern,Grade(11-12),1963
+Saptari,Sagarmatha,Terai,Eastern,Grade (1-5),87018
+Saptari,Sagarmatha,Terai,Eastern,Grade(6-8),27841
+Saptari,Sagarmatha,Terai,Eastern,Grade (9-10),12479
+Saptari,Sagarmatha,Terai,Eastern,Grade(11-12),2927
+Sarlahi,Janakpur,Terai,Central,Grade (1-5),164862
+Sarlahi,Janakpur,Terai,Central,Grade(6-8),31455
+Sarlahi,Janakpur,Terai,Central,Grade (9-10),13699
+Sarlahi,Janakpur,Terai,Central,Grade(11-12),5511
+Sindhuli,Janakpur,Hill,Central,Grade (1-5),65101
+Sindhuli,Janakpur,Hill,Central,Grade(6-8),26157
+Sindhuli,Janakpur,Hill,Central,Grade (9-10),11592
+Sindhuli,Janakpur,Hill,Central,Grade(11-12),7393
+Sindhupalchok,Bagmati,Mountain,Central,Grade (1-5),56910
+Sindhupalchok,Bagmati,Mountain,Central,Grade(6-8),23815
+Sindhupalchok,Bagmati,Mountain,Central,Grade (9-10),11744
+Sindhupalchok,Bagmati,Mountain,Central,Grade(11-12),5094
+Siraha,Sagarmatha,Terai,Eastern,Grade (1-5),101039
+Siraha,Sagarmatha,Terai,Eastern,Grade(6-8),32450
+Siraha,Sagarmatha,Terai,Eastern,Grade (9-10),15413
+Siraha,Sagarmatha,Terai,Eastern,Grade(11-12),6644
+Solukhumbu,Sagarmatha,Mountain,Eastern,Grade (1-5),30127
+Solukhumbu,Sagarmatha,Mountain,Eastern,Grade(6-8),8798
+Solukhumbu,Sagarmatha,Mountain,Eastern,Grade (9-10),3985
+Solukhumbu,Sagarmatha,Mountain,Eastern,Grade(11-12),2133
+Sunsari,Kosi,Terai,Eastern,Grade (1-5),113468
+Sunsari,Kosi,Terai,Eastern,Grade(6-8),45621
+Sunsari,Kosi,Terai,Eastern,Grade (9-10),24362
+Sunsari,Kosi,Terai,Eastern,Grade(11-12),8358
+Surkhet,Bheri,Hill,Mid-Western,Grade (1-5),74347
+Surkhet,Bheri,Hill,Mid-Western,Grade(6-8),33144
+Surkhet,Bheri,Hill,Mid-Western,Grade (9-10),13557
+Surkhet,Bheri,Hill,Mid-Western,Grade(11-12),7629
+Syangja,Gandaki,Hill,Western,Grade (1-5),43571
+Syangja,Gandaki,Hill,Western,Grade(6-8),24458
+Syangja,Gandaki,Hill,Western,Grade (9-10),14094
+Syangja,Gandaki,Hill,Western,Grade(11-12),8715
+Tanahu,Gandaki,Hill,Western,Grade (1-5),54087
+Tanahu,Gandaki,Hill,Western,Grade(6-8),27744
+Tanahu,Gandaki,Hill,Western,Grade (9-10),13345
+Tanahu,Gandaki,Hill,Western,Grade(11-12),5920
+Taplejung,Mechi,Mountain,Eastern,Grade (1-5),34317
+Taplejung,Mechi,Mountain,Eastern,Grade(6-8),13077
+Taplejung,Mechi,Mountain,Eastern,Grade (9-10),5589
+Taplejung,Mechi,Mountain,Eastern,Grade(11-12),3037
+Terhathum,Kosi,Hill,Eastern,Grade (1-5),18462
+Terhathum,Kosi,Hill,Eastern,Grade(6-8),8710
+Terhathum,Kosi,Hill,Eastern,Grade (9-10),4629
+Terhathum,Kosi,Hill,Eastern,Grade(11-12),2380
+Udayapur,Sagarmatha,Hill,Eastern,Grade (1-5),54790
+Udayapur,Sagarmatha,Hill,Eastern,Grade(6-8),28982
+Udayapur,Sagarmatha,Hill,Eastern,Grade (9-10),13908
+Udayapur,Sagarmatha,Hill,Eastern,Grade(11-12),5109
